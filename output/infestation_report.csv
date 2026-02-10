@@ -1,0 +1,2659 @@
+Image_Name,Total_Pests_Detected,Detected_Species,Infestation_Level
+IP000000108.jpg,1,rice leaf roller,Low
+IP000000322.jpg,1,rice leaf roller,Low
+IP000000354.jpg,1,rice leaf roller,Low
+IP000000446.jpg,1,rice leaf roller,Low
+IP000000544.jpg,1,rice leaf roller,Low
+IP000000557.jpg,1,rice leaf roller,Low
+IP000000564.jpg,1,rice leaf roller,Low
+IP000000623.jpg,1,rice leaf roller,Low
+IP000000647.jpg,1,rice leaf roller,Low
+IP000000698.jpg,1,rice leaf roller,Low
+IP000000827.jpg,1,rice leaf roller,Low
+IP000000854.jpg,2,rice leaf roller,Low
+IP001000015.jpg,1,rice leaf roller,Low
+IP001000108.jpg,0,None,Clean
+IP001000305.jpg,1,rice leaf roller,Low
+IP001000333.jpg,1,army worm,Low
+IP001000337.jpg,0,None,Clean
+IP001000347.jpg,1,rice leaf roller,Low
+IP001000419.jpg,1,wireworm,Low
+IP001000431.jpg,0,None,Clean
+IP002000015.jpg,0,None,Clean
+IP002000158.jpg,0,None,Clean
+IP003000066.jpg,2,asiatic rice borer,Low
+IP003000154.jpg,0,None,Clean
+IP003000156.jpg,1,asiatic rice borer,Low
+IP003000169.jpg,1,corn borer,Low
+IP003000173.jpg,1,asiatic rice borer,Low
+IP003000202.jpg,0,None,Clean
+IP003000290.jpg,0,None,Clean
+IP003000569.jpg,0,None,Clean
+IP003000587.jpg,1,asiatic rice borer,Low
+IP003000633.jpg,1,meadow moth,Low
+IP003001006.jpg,1,corn borer,Low
+IP003001018.jpg,1,rice leaf roller,Low
+IP004000077.jpg,1,yellow rice borer,Low
+IP004000098.jpg,1,yellow rice borer,Low
+IP004000220.jpg,0,None,Clean
+IP004000344.jpg,1,yellow rice borer,Low
+IP004000387.jpg,1,yellow rice borer,Low
+IP004000444.jpg,1,yellow rice borer,Low
+IP005000080.jpg,0,None,Clean
+IP005000093.jpg,1,rice gall midge,Low
+IP005000342.jpg,1,rice gall midge,Low
+IP005000350.jpg,1,rice gall midge,Low
+IP005000415.jpg,1,rice gall midge,Low
+IP005000423.jpg,1,rice gall midge,Low
+IP005000433.jpg,1,rice gall midge,Low
+IP006000237.jpg,1,Beet spot flies,Low
+IP006000368.jpg,1,Rice Stemfly,Low
+IP007000004.jpg,1,Cicadellidae,Low
+IP007000007.jpg,1,Lawana imitata Melichar,Low
+IP007000140.jpg,1,brown plant hopper,Low
+IP007000141.jpg,1,Cicadellidae,Low
+IP007000142.jpg,1,Cicadellidae,Low
+IP007000162.jpg,1,Cicadellidae,Low
+IP007000186.jpg,1,brown plant hopper,Low
+IP007000592.jpg,1,Cicadellidae,Low
+IP008000039.jpg,1,white backed plant hopper,Low
+IP008000098.jpg,0,None,Clean
+IP008000367.jpg,0,None,Clean
+IP008000460.jpg,0,None,Clean
+IP008000568.jpg,1,white backed plant hopper,Low
+IP009000000.jpg,1,small brown plant hopper,Low
+IP009000032.jpg,0,None,Clean
+IP009000128.jpg,0,None,Clean
+IP009000148.jpg,0,None,Clean
+IP010000101.jpg,1,rice water weevil,Low
+IP010000120.jpg,1,rice water weevil,Low
+IP010000153.jpg,1,rice water weevil,Low
+IP010000324.jpg,0,None,Clean
+IP010000499.jpg,0,None,Clean
+IP010000501.jpg,0,None,Clean
+IP010000561.jpg,0,None,Clean
+IP010000683.jpg,1,rice water weevil,Low
+IP010000735.jpg,0,None,Clean
+IP010000788.jpg,1,rice water weevil,Low
+IP010000835.jpg,1,rice water weevil,Low
+IP011000095.jpg,1,rice leafhopper,Low
+IP011000203.jpg,1,rice leafhopper,Low
+IP011000207.jpg,1,rice leafhopper,Low
+IP011000245.jpg,1,rice leafhopper,Low
+IP011000274.jpg,1,Cicadellidae,Low
+IP011000351.jpg,1,rice leafhopper,Low
+IP011000375.jpg,1,Cicadellidae,Low
+IP011000378.jpg,1,Cicadellidae,Low
+IP012000096.jpg,0,None,Clean
+IP013000237.jpg,0,None,Clean
+IP013000261.jpg,0,None,Clean
+IP013000269.jpg,1,rice shell pest,Low
+IP014000010.jpg,1,grub,Low
+IP014000090.jpg,1,grub,Low
+IP014000091.jpg,1,grub,Low
+IP014000140.jpg,1,grub,Low
+IP014000186.jpg,1,grub,Low
+IP014000189.jpg,1,grub,Low
+IP014000211.jpg,7,grub,Moderate
+IP014000212.jpg,1,grub,Low
+IP014000257.jpg,1,grub,Low
+IP014000267.jpg,2,grub,Low
+IP014000284.jpg,7,grub,Moderate
+IP014000399.jpg,3,grub,Low
+IP014000480.jpg,5,grub,Moderate
+IP014000500.jpg,1,grub,Low
+IP014000513.jpg,7,grub,Moderate
+IP014000518.jpg,0,None,Clean
+IP014000570.jpg,2,grub,Low
+IP014000609.jpg,1,grub,Low
+IP014000624.jpg,1,grub,Low
+IP014000626.jpg,1,grub,Low
+IP014000632.jpg,2,grub,Low
+IP014000645.jpg,1,grub,Low
+IP014000677.jpg,1,grub,Low
+IP014000695.jpg,2,grub,Low
+IP014000707.jpg,2,grub,Low
+IP014000731.jpg,1,grub,Low
+IP014000740.jpg,5,grub,Moderate
+IP014000749.jpg,1,grub,Low
+IP014000793.jpg,1,grub,Low
+IP014000831.jpg,1,grub,Low
+IP014000845.jpg,3,grub,Low
+IP015000008.jpg,1,mole cricket,Low
+IP015000019.jpg,1,mole cricket,Low
+IP015000025.jpg,1,mole cricket,Low
+IP015000034.jpg,1,mole cricket,Low
+IP015000040.jpg,1,mole cricket,Low
+IP015000048.jpg,1,mole cricket,Low
+IP015000051.jpg,1,mole cricket,Low
+IP015000112.jpg,1,mole cricket,Low
+IP015000122.jpg,1,mole cricket,Low
+IP015000135.jpg,1,mole cricket,Low
+IP015000165.jpg,1,mole cricket,Low
+IP015000196.jpg,1,mole cricket,Low
+IP015000207.jpg,1,mole cricket,Low
+IP015000247.jpg,1,mole cricket,Low
+IP015000297.jpg,1,mole cricket,Low
+IP015000301.jpg,1,mole cricket,Low
+IP015000325.jpg,1,mole cricket,Low
+IP015000340.jpg,1,mole cricket,Low
+IP015000345.jpg,1,mole cricket,Low
+IP015000368.jpg,1,mole cricket,Low
+IP015000411.jpg,1,mole cricket,Low
+IP015000413.jpg,1,mole cricket,Low
+IP015000421.jpg,1,mole cricket,Low
+IP015000433.jpg,1,mole cricket,Low
+IP015000460.jpg,1,mole cricket,Low
+IP015000496.jpg,1,mole cricket,Low
+IP015000510.jpg,1,mole cricket,Low
+IP015000573.jpg,1,mole cricket,Low
+IP015000574.jpg,1,mole cricket,Low
+IP015000593.jpg,1,mole cricket,Low
+IP015000600.jpg,1,mole cricket,Low
+IP015000619.jpg,1,mole cricket,Low
+IP015000650.jpg,1,mole cricket,Low
+IP015000719.jpg,1,mole cricket,Low
+IP015000721.jpg,1,mole cricket,Low
+IP015000746.jpg,1,mole cricket,Low
+IP015000763.jpg,1,mole cricket,Low
+IP015000765.jpg,1,mole cricket,Low
+IP015000771.jpg,1,mole cricket,Low
+IP015000869.jpg,1,mole cricket,Low
+IP015000889.jpg,1,mole cricket,Low
+IP015000935.jpg,1,mole cricket,Low
+IP015000941.jpg,1,mole cricket,Low
+IP015001004.jpg,1,mole cricket,Low
+IP015001006.jpg,1,mole cricket,Low
+IP015001202.jpg,1,mole cricket,Low
+IP015001261.jpg,1,mole cricket,Low
+IP015001284.jpg,1,mole cricket,Low
+IP015001315.jpg,1,mole cricket,Low
+IP015001317.jpg,1,mole cricket,Low
+IP015001320.jpg,1,mole cricket,Low
+IP015001331.jpg,1,mole cricket,Low
+IP015001360.jpg,1,mole cricket,Low
+IP015001369.jpg,1,mole cricket,Low
+IP015001406.jpg,1,mole cricket,Low
+IP015001490.jpg,1,mole cricket,Low
+IP015001496.jpg,1,mole cricket,Low
+IP015001556.jpg,1,mole cricket,Low
+IP015001578.jpg,1,mole cricket,Low
+IP015001579.jpg,1,mole cricket,Low
+IP015001590.jpg,1,mole cricket,Low
+IP016000020.jpg,3,wireworm,Low
+IP016000090.jpg,1,wireworm,Low
+IP016000115.jpg,1,wireworm,Low
+IP016000167.jpg,1,wireworm,Low
+IP016000213.jpg,1,wireworm,Low
+IP016000220.jpg,1,wireworm,Low
+IP016000234.jpg,2,wireworm,Low
+IP016000282.jpg,1,wireworm,Low
+IP016000285.jpg,0,None,Clean
+IP016000371.jpg,4,wireworm,Moderate
+IP016000406.jpg,1,wireworm,Low
+IP016000452.jpg,2,"blister beetle, wireworm",Low
+IP016000455.jpg,1,wireworm,Low
+IP016000460.jpg,2,wireworm,Low
+IP016000504.jpg,1,wireworm,Low
+IP016000505.jpg,1,wireworm,Low
+IP016000511.jpg,1,wireworm,Low
+IP016000573.jpg,1,wireworm,Low
+IP016000622.jpg,1,wireworm,Low
+IP016000640.jpg,1,wireworm,Low
+IP016000654.jpg,1,wireworm,Low
+IP016000677.jpg,1,wireworm,Low
+IP016000706.jpg,2,wireworm,Low
+IP016000708.jpg,1,wireworm,Low
+IP016000739.jpg,1,wireworm,Low
+IP016000765.jpg,1,wireworm,Low
+IP016000768.jpg,1,wireworm,Low
+IP016000784.jpg,1,wireworm,Low
+IP016000797.jpg,1,wireworm,Low
+IP016000849.jpg,1,wireworm,Low
+IP017000002.jpg,1,black cutworm,Low
+IP017000023.jpg,1,black cutworm,Low
+IP017000075.jpg,1,black cutworm,Low
+IP018000072.jpg,1,black cutworm,Low
+IP018000098.jpg,1,black cutworm,Low
+IP018000168.jpg,1,black cutworm,Low
+IP018000169.jpg,1,black cutworm,Low
+IP018000253.jpg,1,black cutworm,Low
+IP018000342.jpg,1,black cutworm,Low
+IP018000392.jpg,1,black cutworm,Low
+IP018000399.jpg,1,black cutworm,Low
+IP018000412.jpg,1,black cutworm,Low
+IP018000452.jpg,1,black cutworm,Low
+IP018000463.jpg,1,black cutworm,Low
+IP018000490.jpg,1,black cutworm,Low
+IP018000575.jpg,1,black cutworm,Low
+IP018000583.jpg,0,None,Clean
+IP018000593.jpg,1,black cutworm,Low
+IP018000632.jpg,0,None,Clean
+IP018000713.jpg,1,black cutworm,Low
+IP018000774.jpg,1,black cutworm,Low
+IP018000779.jpg,1,black cutworm,Low
+IP018000785.jpg,0,None,Clean
+IP018000794.jpg,1,black cutworm,Low
+IP019000001.jpg,1,black cutworm,Low
+IP019000035.jpg,2,black cutworm,Low
+IP019000131.jpg,0,None,Clean
+IP019000144.jpg,1,black cutworm,Low
+IP019000173.jpg,1,black cutworm,Low
+IP019000214.jpg,2,black cutworm,Low
+IP019000276.jpg,1,black cutworm,Low
+IP019000307.jpg,1,black cutworm,Low
+IP019000322.jpg,1,black cutworm,Low
+IP019000425.jpg,1,black cutworm,Low
+IP019000452.jpg,0,None,Clean
+IP020000008.jpg,1,black cutworm,Low
+IP020000012.jpg,0,None,Clean
+IP020000020.jpg,0,None,Clean
+IP020000065.jpg,1,Prodenia litura,Low
+IP020000173.jpg,1,black cutworm,Low
+IP020000224.jpg,0,None,Clean
+IP020000243.jpg,0,None,Clean
+IP020000259.jpg,1,black cutworm,Low
+IP020000266.jpg,1,black cutworm,Low
+IP020000309.jpg,0,None,Clean
+IP020000315.jpg,0,None,Clean
+IP020000357.jpg,1,yellow cutworm,Low
+IP020000360.jpg,1,yellow cutworm,Low
+IP020000386.jpg,0,None,Clean
+IP021000037.jpg,2,"red spider, Papilio xuthus",Low
+IP021000067.jpg,0,None,Clean
+IP021000114.jpg,1,red spider,Low
+IP021000138.jpg,1,red spider,Low
+IP021000180.jpg,1,red spider,Low
+IP021000188.jpg,1,red spider,Low
+IP021000309.jpg,1,red spider,Low
+IP021000311.jpg,1,red spider,Low
+IP021000341.jpg,0,None,Clean
+IP021000394.jpg,1,red spider,Low
+IP021000427.jpg,2,"red spider, Papilio xuthus",Low
+IP022000018.jpg,1,Prodenia litura,Low
+IP022000147.jpg,1,corn borer,Low
+IP022000182.jpg,1,corn borer,Low
+IP022000201.jpg,1,corn borer,Low
+IP022000251.jpg,1,corn borer,Low
+IP022000270.jpg,1,corn borer,Low
+IP022000278.jpg,1,corn borer,Low
+IP022000280.jpg,1,corn borer,Low
+IP022000288.jpg,1,corn borer,Low
+IP022000313.jpg,1,corn borer,Low
+IP022000320.jpg,1,corn borer,Low
+IP022000332.jpg,1,corn borer,Low
+IP022000333.jpg,1,corn borer,Low
+IP022000346.jpg,1,corn borer,Low
+IP022000362.jpg,1,corn borer,Low
+IP022000520.jpg,1,corn borer,Low
+IP022000670.jpg,0,None,Clean
+IP022000733.jpg,0,None,Clean
+IP022000751.jpg,1,corn borer,Low
+IP022000755.jpg,0,None,Clean
+IP022000795.jpg,0,None,Clean
+IP022000797.jpg,0,None,Clean
+IP022000969.jpg,2,corn borer,Low
+IP022000993.jpg,1,corn borer,Low
+IP022001042.jpg,1,corn borer,Low
+IP022001086.jpg,1,corn borer,Low
+IP022001461.jpg,0,None,Clean
+IP022001603.jpg,1,corn borer,Low
+IP022001609.jpg,0,None,Clean
+IP022001628.jpg,0,None,Clean
+IP023000098.jpg,2,army worm,Low
+IP023000128.jpg,1,army worm,Low
+IP023000340.jpg,1,rice leaf roller,Low
+IP023000365.jpg,1,army worm,Low
+IP023000438.jpg,1,beet army worm,Low
+IP023000462.jpg,1,yellow cutworm,Low
+IP023000634.jpg,0,None,Clean
+IP023000654.jpg,0,None,Clean
+IP023000678.jpg,0,None,Clean
+IP023000766.jpg,1,army worm,Low
+IP023000826.jpg,2,army worm,Low
+IP023000954.jpg,1,flax budworm,Low
+IP023000999.jpg,1,army worm,Low
+IP023001064.jpg,0,None,Clean
+IP024000059.jpg,1,aphids,Low
+IP024000204.jpg,8,aphids,Severe
+IP024000250.jpg,3,aphids,Low
+IP024000259.jpg,1,aphids,Low
+IP024000260.jpg,1,aphids,Low
+IP024000322.jpg,0,None,Clean
+IP024000370.jpg,1,aphids,Low
+IP024000404.jpg,1,aphids,Low
+IP024000427.jpg,2,aphids,Low
+IP024000490.jpg,1,aphids,Low
+IP024000558.jpg,7,aphids,Moderate
+IP024000656.jpg,3,aphids,Low
+IP024000732.jpg,1,aphids,Low
+IP024000756.jpg,1,aphids,Low
+IP024000786.jpg,1,aphids,Low
+IP024000789.jpg,1,aphids,Low
+IP024000872.jpg,1,aphids,Low
+IP024000964.jpg,1,aphids,Low
+IP024001042.jpg,1,aphids,Low
+IP024001097.jpg,1,aphids,Low
+IP024001194.jpg,1,aphids,Low
+IP024001258.jpg,1,aphids,Low
+IP024001305.jpg,1,Cicadellidae,Low
+IP024001314.jpg,1,aphids,Low
+IP024001412.jpg,1,aphids,Low
+IP024001432.jpg,1,Cicadellidae,Low
+IP024001433.jpg,2,"aphids, Cicadellidae",Low
+IP024001451.jpg,1,aphids,Low
+IP024001463.jpg,4,aphids,Moderate
+IP024001501.jpg,1,aphids,Low
+IP024001535.jpg,1,aphids,Low
+IP024001608.jpg,2,aphids,Low
+IP024001619.jpg,1,bird cherry-oataphid,Low
+IP024001700.jpg,1,aphids,Low
+IP024001779.jpg,3,aphids,Low
+IP024001780.jpg,3,aphids,Low
+IP024001876.jpg,1,aphids,Low
+IP024001921.jpg,1,aphids,Low
+IP024001972.jpg,1,aphids,Low
+IP024002003.jpg,1,aphids,Low
+IP024002512.jpg,1,aphids,Low
+IP024002575.jpg,1,aphids,Low
+IP024002607.jpg,2,aphids,Low
+IP024002611.jpg,3,aphids,Low
+IP024002645.jpg,1,aphids,Low
+IP024002741.jpg,0,None,Clean
+IP024002744.jpg,0,None,Clean
+IP024002793.jpg,4,aphids,Moderate
+IP024002811.jpg,1,aphids,Low
+IP024002820.jpg,5,aphids,Moderate
+IP024002840.jpg,6,aphids,Moderate
+IP024002888.jpg,1,aphids,Low
+IP024003003.jpg,1,aphids,Low
+IP024003007.jpg,1,aphids,Low
+IP024003183.jpg,1,aphids,Low
+IP024003309.jpg,1,aphids,Low
+IP024003334.jpg,1,aphids,Low
+IP024003580.jpg,1,aphids,Low
+IP024003609.jpg,3,aphids,Low
+IP024003643.jpg,1,aphids,Low
+IP024003743.jpg,1,aphids,Low
+IP024003932.jpg,1,aphids,Low
+IP025000013.jpg,1,Potosiabre vitarsis,Low
+IP025000049.jpg,1,Potosiabre vitarsis,Low
+IP025000063.jpg,1,Potosiabre vitarsis,Low
+IP025000221.jpg,0,None,Clean
+IP025000236.jpg,1,Potosiabre vitarsis,Low
+IP025000245.jpg,1,Potosiabre vitarsis,Low
+IP025000272.jpg,1,Potosiabre vitarsis,Low
+IP025000343.jpg,1,Potosiabre vitarsis,Low
+IP025000420.jpg,1,Potosiabre vitarsis,Low
+IP025000437.jpg,1,Potosiabre vitarsis,Low
+IP025000476.jpg,1,Potosiabre vitarsis,Low
+IP025000484.jpg,1,Potosiabre vitarsis,Low
+IP025000494.jpg,1,Potosiabre vitarsis,Low
+IP025000564.jpg,2,Potosiabre vitarsis,Low
+IP026000029.jpg,1,peach borer,Low
+IP026000039.jpg,1,peach borer,Low
+IP026000054.jpg,1,peach borer,Low
+IP026000135.jpg,1,peach borer,Low
+IP026000199.jpg,1,peach borer,Low
+IP026000227.jpg,0,None,Clean
+IP026000252.jpg,1,peach borer,Low
+IP026000381.jpg,1,peach borer,Low
+IP026000407.jpg,0,None,Clean
+IP026000413.jpg,1,peach borer,Low
+IP026000419.jpg,1,grub,Low
+IP026000487.jpg,1,wireworm,Low
+IP026000546.jpg,1,peach borer,Low
+IP026000585.jpg,1,peach borer,Low
+IP026000631.jpg,1,peach borer,Low
+IP026000679.jpg,1,wireworm,Low
+IP026000681.jpg,1,peach borer,Low
+IP027000077.jpg,1,aphids,Low
+IP027000081.jpg,0,None,Clean
+IP027000175.jpg,2,"bird cherry-oataphid, english grain aphid",Low
+IP027000299.jpg,1,aphids,Low
+IP027000391.jpg,0,None,Clean
+IP027000411.jpg,2,english grain aphid,Low
+IP027000473.jpg,6,aphids,Moderate
+IP027000522.jpg,0,None,Clean
+IP027000577.jpg,0,None,Clean
+IP028000035.jpg,0,None,Clean
+IP028000125.jpg,1,aphids,Low
+IP029000184.jpg,1,aphids,Low
+IP029000397.jpg,0,None,Clean
+IP029000451.jpg,1,aphids,Low
+IP029000493.jpg,1,aphids,Low
+IP029000520.jpg,1,english grain aphid,Low
+IP030000154.jpg,1,wheat sawfly,Low
+IP030000257.jpg,1,wheat blossom midge,Low
+IP032000055.jpg,1,penthaleus major,Low
+IP032000058.jpg,0,None,Clean
+IP032000120.jpg,1,penthaleus major,Low
+IP032000121.jpg,1,penthaleus major,Low
+IP032000124.jpg,1,penthaleus major,Low
+IP033000146.jpg,0,None,Clean
+IP033000148.jpg,0,None,Clean
+IP033000163.jpg,1,red spider,Low
+IP033000206.jpg,0,None,Clean
+IP034000040.jpg,1,wheat phloeothrips,Low
+IP034000058.jpg,1,wheat phloeothrips,Low
+IP034000131.jpg,1,grain spreader thrips,Low
+IP034000226.jpg,1,wheat phloeothrips,Low
+IP034000251.jpg,1,wheat phloeothrips,Low
+IP034000280.jpg,1,wheat phloeothrips,Low
+IP035000068.jpg,1,wheat sawfly,Low
+IP035000089.jpg,1,wheat sawfly,Low
+IP035000096.jpg,1,wheat sawfly,Low
+IP035000136.jpg,1,wheat sawfly,Low
+IP035000204.jpg,1,wheat sawfly,Low
+IP035000213.jpg,1,wheat sawfly,Low
+IP035000229.jpg,1,wheat sawfly,Low
+IP035000269.jpg,0,None,Clean
+IP035000280.jpg,0,None,Clean
+IP035000288.jpg,1,wheat sawfly,Low
+IP036000102.jpg,1,Beet spot flies,Low
+IP036000113.jpg,0,None,Clean
+IP037000040.jpg,0,None,Clean
+IP037000093.jpg,1,Beet spot flies,Low
+IP038000014.jpg,1,flea beetle,Low
+IP038000143.jpg,1,flea beetle,Low
+IP038000150.jpg,1,flea beetle,Low
+IP038000163.jpg,1,flea beetle,Low
+IP038000176.jpg,1,flea beetle,Low
+IP038000198.jpg,1,flea beetle,Low
+IP038000225.jpg,1,blister beetle,Low
+IP038000256.jpg,1,flea beetle,Low
+IP038000266.jpg,1,flea beetle,Low
+IP038000380.jpg,1,flea beetle,Low
+IP038000450.jpg,1,flea beetle,Low
+IP038000453.jpg,2,flea beetle,Low
+IP038000463.jpg,1,flea beetle,Low
+IP038000478.jpg,1,flea beetle,Low
+IP038000483.jpg,1,flea beetle,Low
+IP038000511.jpg,1,flea beetle,Low
+IP038000521.jpg,1,flea beetle,Low
+IP038000536.jpg,1,flea beetle,Low
+IP038000540.jpg,1,flea beetle,Low
+IP038000563.jpg,1,flea beetle,Low
+IP038000643.jpg,1,flea beetle,Low
+IP038000665.jpg,1,flea beetle,Low
+IP038000714.jpg,0,None,Clean
+IP038000720.jpg,1,flea beetle,Low
+IP039000005.jpg,0,None,Clean
+IP039000049.jpg,1,cabbage army worm,Low
+IP039000061.jpg,1,beet army worm,Low
+IP039000121.jpg,1,black cutworm,Low
+IP039000257.jpg,0,None,Clean
+IP039000263.jpg,0,None,Clean
+IP039000321.jpg,0,None,Clean
+IP039000355.jpg,1,corn borer,Low
+IP039000390.jpg,0,None,Clean
+IP039000410.jpg,1,cabbage army worm,Low
+IP039000492.jpg,1,Adristyrannus,Low
+IP039000504.jpg,0,None,Clean
+IP039000530.jpg,1,army worm,Low
+IP039000542.jpg,1,black cutworm,Low
+IP039000546.jpg,0,None,Clean
+IP039000606.jpg,0,None,Clean
+IP039000756.jpg,0,None,Clean
+IP040000032.jpg,0,None,Clean
+IP040000051.jpg,1,beet army worm,Low
+IP040000055.jpg,1,beet army worm,Low
+IP040000132.jpg,1,beet army worm,Low
+IP040000143.jpg,0,None,Clean
+IP040000157.jpg,1,corn borer,Low
+IP040000164.jpg,1,beet army worm,Low
+IP040000227.jpg,0,None,Clean
+IP040000254.jpg,1,beet army worm,Low
+IP040000264.jpg,1,beet army worm,Low
+IP040000314.jpg,1,beet army worm,Low
+IP040000327.jpg,0,None,Clean
+IP040000355.jpg,0,None,Clean
+IP040000373.jpg,0,None,Clean
+IP040000410.jpg,0,None,Clean
+IP040000422.jpg,0,None,Clean
+IP040000462.jpg,1,beet army worm,Low
+IP040000496.jpg,1,beet army worm,Low
+IP040000614.jpg,1,beet army worm,Low
+IP040000663.jpg,1,beet army worm,Low
+IP040000744.jpg,1,beet army worm,Low
+IP040000842.jpg,0,None,Clean
+IP040000908.jpg,1,beet army worm,Low
+IP040000943.jpg,1,Prodenia litura,Low
+IP040001085.jpg,0,None,Clean
+IP040001314.jpg,0,None,Clean
+IP040001362.jpg,0,None,Clean
+IP040001364.jpg,0,None,Clean
+IP040001413.jpg,0,None,Clean
+IP041000042.jpg,0,None,Clean
+IP041000125.jpg,1,Beet spot flies,Low
+IP041000246.jpg,1,Beet spot flies,Low
+IP041000294.jpg,0,None,Clean
+IP041000297.jpg,0,None,Clean
+IP042000066.jpg,0,None,Clean
+IP042000093.jpg,0,None,Clean
+IP042000106.jpg,0,None,Clean
+IP042000110.jpg,1,corn borer,Low
+IP042000131.jpg,2,corn borer,Low
+IP042000184.jpg,1,meadow moth,Low
+IP042000187.jpg,1,corn borer,Low
+IP043000004.jpg,1,beet weevil,Low
+IP043000049.jpg,0,None,Clean
+IP043000082.jpg,0,None,Clean
+IP043000101.jpg,1,rice water weevil,Low
+IP043000126.jpg,1,beet weevil,Low
+IP043000178.jpg,0,None,Clean
+IP043000200.jpg,0,None,Clean
+IP043000261.jpg,1,beet weevil,Low
+IP043000278.jpg,0,None,Clean
+IP043000284.jpg,1,beet weevil,Low
+IP044000037.jpg,1,sericaorient alismots chulsky,Low
+IP044000056.jpg,0,None,Clean
+IP044000075.jpg,1,flea beetle,Low
+IP044000102.jpg,0,None,Clean
+IP044000114.jpg,2,"Potosiabre vitarsis, sericaorient alismots chulsky",Low
+IP044000161.jpg,1,sericaorient alismots chulsky,Low
+IP045000073.jpg,0,None,Clean
+IP045000087.jpg,2,alfalfa weevil,Low
+IP045000122.jpg,0,None,Clean
+IP045000219.jpg,1,rice water weevil,Low
+IP045000283.jpg,0,None,Clean
+IP045000489.jpg,0,None,Clean
+IP046000045.jpg,1,flax budworm,Low
+IP046000094.jpg,1,flax budworm,Low
+IP046000114.jpg,0,None,Clean
+IP046000210.jpg,1,Lawana imitata Melichar,Low
+IP046000234.jpg,0,None,Clean
+IP046000245.jpg,0,None,Clean
+IP046000266.jpg,1,beet army worm,Low
+IP046000271.jpg,1,Ampelophaga,Low
+IP046000273.jpg,0,None,Clean
+IP046000286.jpg,0,None,Clean
+IP046000436.jpg,1,Adristyrannus,Low
+IP046000446.jpg,1,army worm,Low
+IP046000458.jpg,0,None,Clean
+IP046000636.jpg,0,None,Clean
+IP046000654.jpg,0,None,Clean
+IP046000708.jpg,1,flax budworm,Low
+IP046000788.jpg,0,None,Clean
+IP046000806.jpg,1,meadow moth,Low
+IP046000832.jpg,0,None,Clean
+IP046000848.jpg,0,None,Clean
+IP046000902.jpg,1,wireworm,Low
+IP046000915.jpg,0,None,Clean
+IP046000929.jpg,1,flax budworm,Low
+IP046000985.jpg,0,None,Clean
+IP046001007.jpg,1,flax budworm,Low
+IP046001008.jpg,1,Adristyrannus,Low
+IP046001036.jpg,1,beet army worm,Low
+IP046001062.jpg,0,None,Clean
+IP046001063.jpg,1,Adristyrannus,Low
+IP047000032.jpg,1,Locustoidea,Low
+IP047000085.jpg,1,alfalfa plant bug,Low
+IP047000088.jpg,0,None,Clean
+IP047000135.jpg,1,Miridae,Low
+IP047000166.jpg,0,None,Clean
+IP047000172.jpg,0,None,Clean
+IP047000414.jpg,1,alfalfa plant bug,Low
+IP047000430.jpg,0,None,Clean
+IP047000431.jpg,1,tarnished plant bug,Low
+IP047000462.jpg,1,tarnished plant bug,Low
+IP047000473.jpg,0,None,Clean
+IP047000511.jpg,1,alfalfa plant bug,Low
+IP047000537.jpg,0,None,Clean
+IP047000538.jpg,1,alfalfa plant bug,Low
+IP047000547.jpg,1,Miridae,Low
+IP047000594.jpg,1,Miridae,Low
+IP048000040.jpg,1,tarnished plant bug,Low
+IP048000048.jpg,1,tarnished plant bug,Low
+IP048000054.jpg,1,Miridae,Low
+IP048000060.jpg,1,tarnished plant bug,Low
+IP048000164.jpg,1,tarnished plant bug,Low
+IP048000198.jpg,1,tarnished plant bug,Low
+IP048000221.jpg,0,None,Clean
+IP048000311.jpg,1,tarnished plant bug,Low
+IP048000316.jpg,1,tarnished plant bug,Low
+IP048000345.jpg,1,tarnished plant bug,Low
+IP048000476.jpg,0,None,Clean
+IP048000561.jpg,0,None,Clean
+IP048000565.jpg,1,tarnished plant bug,Low
+IP048000576.jpg,1,Miridae,Low
+IP048000577.jpg,1,tarnished plant bug,Low
+IP048000607.jpg,1,Miridae,Low
+IP048000622.jpg,1,Miridae,Low
+IP048000657.jpg,1,tarnished plant bug,Low
+IP048000659.jpg,1,tarnished plant bug,Low
+IP048000679.jpg,1,Miridae,Low
+IP048000688.jpg,1,Miridae,Low
+IP048000697.jpg,1,Miridae,Low
+IP048000704.jpg,0,None,Clean
+IP048000818.jpg,0,None,Clean
+IP049000019.jpg,1,Locustoidea,Low
+IP049000096.jpg,1,Locustoidea,Low
+IP049000233.jpg,1,Locustoidea,Low
+IP049000291.jpg,1,Locustoidea,Low
+IP049000313.jpg,1,Miridae,Low
+IP049000317.jpg,1,aphids,Low
+IP049000330.jpg,1,Miridae,Low
+IP049000361.jpg,0,None,Clean
+IP049000381.jpg,1,Locustoidea,Low
+IP049000403.jpg,1,Locustoidea,Low
+IP049000420.jpg,0,None,Clean
+IP049000432.jpg,1,Miridae,Low
+IP049000481.jpg,1,Locustoidea,Low
+IP049000504.jpg,1,tarnished plant bug,Low
+IP049000588.jpg,1,Miridae,Low
+IP049000592.jpg,1,Locustoidea,Low
+IP049000606.jpg,1,Locustoidea,Low
+IP049000613.jpg,1,Locustoidea,Low
+IP049000623.jpg,1,Miridae,Low
+IP049000664.jpg,0,None,Clean
+IP049000725.jpg,1,Miridae,Low
+IP049000802.jpg,1,Locustoidea,Low
+IP049000821.jpg,1,Locustoidea,Low
+IP049000836.jpg,1,Locustoidea,Low
+IP049000846.jpg,1,Miridae,Low
+IP049000878.jpg,2,Locustoidea,Low
+IP049000896.jpg,1,Locustoidea,Low
+IP049000914.jpg,1,Locustoidea,Low
+IP049000973.jpg,0,None,Clean
+IP049001029.jpg,0,None,Clean
+IP049001092.jpg,1,Locustoidea,Low
+IP049001100.jpg,1,Locustoidea,Low
+IP049001169.jpg,0,None,Clean
+IP049001212.jpg,1,Locustoidea,Low
+IP049001237.jpg,0,None,Clean
+IP049001329.jpg,0,None,Clean
+IP049001357.jpg,0,None,Clean
+IP050000065.jpg,1,lytta polita,Low
+IP050000085.jpg,1,lytta polita,Low
+IP050000111.jpg,1,legume blister beetle,Low
+IP050000123.jpg,1,blister beetle,Low
+IP050000127.jpg,1,blister beetle,Low
+IP050000210.jpg,2,blister beetle,Low
+IP050000251.jpg,1,blister beetle,Low
+IP050000272.jpg,1,legume blister beetle,Low
+IP050000293.jpg,1,blister beetle,Low
+IP050000319.jpg,0,None,Clean
+IP050000336.jpg,0,None,Clean
+IP050000341.jpg,0,None,Clean
+IP050000350.jpg,1,blister beetle,Low
+IP050000363.jpg,1,blister beetle,Low
+IP050000492.jpg,0,None,Clean
+IP050000551.jpg,1,blister beetle,Low
+IP050000606.jpg,0,None,Clean
+IP051000015.jpg,1,legume blister beetle,Low
+IP051000035.jpg,1,blister beetle,Low
+IP051000098.jpg,1,blister beetle,Low
+IP051000144.jpg,1,blister beetle,Low
+IP051000157.jpg,0,None,Clean
+IP051000180.jpg,0,None,Clean
+IP051000212.jpg,0,None,Clean
+IP051000235.jpg,0,None,Clean
+IP051000249.jpg,1,legume blister beetle,Low
+IP051000287.jpg,1,blister beetle,Low
+IP051000311.jpg,0,None,Clean
+IP051000342.jpg,0,None,Clean
+IP051000363.jpg,1,legume blister beetle,Low
+IP051000364.jpg,1,legume blister beetle,Low
+IP051000403.jpg,0,None,Clean
+IP051000435.jpg,1,legume blister beetle,Low
+IP051000436.jpg,0,None,Clean
+IP051000505.jpg,0,None,Clean
+IP051000565.jpg,1,legume blister beetle,Low
+IP051000767.jpg,1,legume blister beetle,Low
+IP051000806.jpg,1,legume blister beetle,Low
+IP051000866.jpg,1,legume blister beetle,Low
+IP051000906.jpg,1,legume blister beetle,Low
+IP051000926.jpg,0,None,Clean
+IP051001031.jpg,1,blister beetle,Low
+IP051001250.jpg,1,legume blister beetle,Low
+IP051001261.jpg,1,legume blister beetle,Low
+IP051001358.jpg,1,legume blister beetle,Low
+IP051001363.jpg,1,legume blister beetle,Low
+IP051001382.jpg,1,legume blister beetle,Low
+IP052000023.jpg,1,blister beetle,Low
+IP052000109.jpg,1,blister beetle,Low
+IP052000117.jpg,1,blister beetle,Low
+IP052000146.jpg,1,blister beetle,Low
+IP052000151.jpg,1,blister beetle,Low
+IP052000161.jpg,1,blister beetle,Low
+IP052000172.jpg,1,blister beetle,Low
+IP052000189.jpg,1,blister beetle,Low
+IP052000209.jpg,1,blister beetle,Low
+IP052000215.jpg,1,blister beetle,Low
+IP052000232.jpg,1,blister beetle,Low
+IP052000233.jpg,1,blister beetle,Low
+IP052000285.jpg,1,blister beetle,Low
+IP052000289.jpg,1,blister beetle,Low
+IP052000303.jpg,1,blister beetle,Low
+IP052000372.jpg,1,blister beetle,Low
+IP052000375.jpg,1,blister beetle,Low
+IP052000416.jpg,1,blister beetle,Low
+IP052000457.jpg,1,blister beetle,Low
+IP052000461.jpg,1,blister beetle,Low
+IP052000478.jpg,0,None,Clean
+IP052000483.jpg,1,blister beetle,Low
+IP052000513.jpg,1,blister beetle,Low
+IP052000517.jpg,1,blister beetle,Low
+IP052000525.jpg,1,blister beetle,Low
+IP052000557.jpg,1,blister beetle,Low
+IP052000567.jpg,1,blister beetle,Low
+IP052000594.jpg,1,blister beetle,Low
+IP052000608.jpg,1,blister beetle,Low
+IP052000624.jpg,1,blister beetle,Low
+IP052000642.jpg,1,blister beetle,Low
+IP052000652.jpg,1,blister beetle,Low
+IP052000685.jpg,1,blister beetle,Low
+IP052000751.jpg,1,blister beetle,Low
+IP052000785.jpg,1,Rhytidodera bowrinii white,Low
+IP052000899.jpg,0,None,Clean
+IP052000918.jpg,1,blister beetle,Low
+IP052000951.jpg,0,None,Clean
+IP052001008.jpg,0,None,Clean
+IP052001009.jpg,1,legume blister beetle,Low
+IP052001049.jpg,1,legume blister beetle,Low
+IP052001111.jpg,0,None,Clean
+IP052001128.jpg,0,None,Clean
+IP052001152.jpg,0,None,Clean
+IP052001175.jpg,1,blister beetle,Low
+IP052001271.jpg,0,None,Clean
+IP052001383.jpg,1,blister beetle,Low
+IP052001393.jpg,1,blister beetle,Low
+IP052001404.jpg,1,blister beetle,Low
+IP052001408.jpg,1,blister beetle,Low
+IP052001415.jpg,1,blister beetle,Low
+IP052001426.jpg,0,None,Clean
+IP052001429.jpg,1,blister beetle,Low
+IP052001431.jpg,1,blister beetle,Low
+IP052001466.jpg,1,blister beetle,Low
+IP052001530.jpg,1,blister beetle,Low
+IP052001557.jpg,1,blister beetle,Low
+IP052001569.jpg,1,legume blister beetle,Low
+IP052001601.jpg,1,blister beetle,Low
+IP052001619.jpg,0,None,Clean
+IP052001725.jpg,1,blister beetle,Low
+IP052001731.jpg,1,blister beetle,Low
+IP052001745.jpg,0,None,Clean
+IP052001799.jpg,1,legume blister beetle,Low
+IP052001890.jpg,0,None,Clean
+IP054000007.jpg,0,None,Clean
+IP054000100.jpg,0,None,Clean
+IP054000128.jpg,0,None,Clean
+IP054000182.jpg,0,None,Clean
+IP054000184.jpg,0,None,Clean
+IP055000177.jpg,0,None,Clean
+IP055000525.jpg,0,None,Clean
+IP055000798.jpg,0,None,Clean
+IP056000044.jpg,1,alfalfa seed chalcid,Low
+IP057000130.jpg,1,rice water weevil,Low
+IP057000188.jpg,1,beet weevil,Low
+IP057000210.jpg,0,None,Clean
+IP057000239.jpg,0,None,Clean
+IP058000086.jpg,1,Locustoidea,Low
+IP058000266.jpg,0,None,Clean
+IP059000301.jpg,0,None,Clean
+IP059000525.jpg,1,aphids,Low
+IP059000639.jpg,2,aphids,Low
+IP059001040.jpg,2,aphids,Low
+IP059001307.jpg,1,aphids,Low
+IP059001346.jpg,4,aphids,Moderate
+IP059001374.jpg,1,aphids,Low
+IP063000024.jpg,1,oides decempunctata,Low
+IP063000059.jpg,1,oides decempunctata,Low
+IP063000067.jpg,1,oides decempunctata,Low
+IP063000166.jpg,1,oides decempunctata,Low
+IP063000183.jpg,1,oides decempunctata,Low
+IP063000215.jpg,2,oides decempunctata,Low
+IP063000229.jpg,1,oides decempunctata,Low
+IP063000233.jpg,1,oides decempunctata,Low
+IP063000276.jpg,3,oides decempunctata,Low
+IP065000108.jpg,1,Pseudococcus comstocki Kuwana,Low
+IP065000136.jpg,0,None,Clean
+IP065000217.jpg,0,None,Clean
+IP065000220.jpg,1,Pseudococcus comstocki Kuwana,Low
+IP066000084.jpg,1,parathrene regalis,Low
+IP066000087.jpg,0,None,Clean
+IP067000053.jpg,1,Ampelophaga,Low
+IP067000084.jpg,1,Ampelophaga,Low
+IP067000194.jpg,1,Ampelophaga,Low
+IP067000216.jpg,1,Ampelophaga,Low
+IP067000229.jpg,1,Adristyrannus,Low
+IP067000302.jpg,1,Ampelophaga,Low
+IP067000304.jpg,1,Ampelophaga,Low
+IP067000505.jpg,2,Ampelophaga,Low
+IP067000524.jpg,1,Ampelophaga,Low
+IP067000543.jpg,1,Ampelophaga,Low
+IP067000559.jpg,1,Ampelophaga,Low
+IP067000572.jpg,1,Ampelophaga,Low
+IP067000583.jpg,1,Ampelophaga,Low
+IP067000594.jpg,1,Ampelophaga,Low
+IP067000600.jpg,1,Ampelophaga,Low
+IP067000650.jpg,1,Ampelophaga,Low
+IP067000681.jpg,1,Ampelophaga,Low
+IP067000696.jpg,1,Ampelophaga,Low
+IP067000707.jpg,1,Ampelophaga,Low
+IP067000743.jpg,1,Ampelophaga,Low
+IP068000181.jpg,1,Lycorma delicatula,Low
+IP068000252.jpg,1,Lycorma delicatula,Low
+IP068000775.jpg,1,Lycorma delicatula,Low
+IP068001304.jpg,1,Lycorma delicatula,Low
+IP068001439.jpg,1,Lycorma delicatula,Low
+IP068001899.jpg,1,Lycorma delicatula,Low
+IP068003044.jpg,1,Lycorma delicatula,Low
+IP068003059.jpg,1,Lycorma delicatula,Low
+IP068003446.jpg,1,Lycorma delicatula,Low
+IP068003492.jpg,1,Lycorma delicatula,Low
+IP068003529.jpg,2,"Lawana imitata Melichar, Lycorma delicatula",Low
+IP068003572.jpg,1,Lycorma delicatula,Low
+IP068003601.jpg,1,Cicadellidae,Low
+IP068003698.jpg,1,Lycorma delicatula,Low
+IP068003943.jpg,1,Lycorma delicatula,Low
+IP068003952.jpg,1,Lycorma delicatula,Low
+IP068003976.jpg,1,Lycorma delicatula,Low
+IP068004020.jpg,1,Lycorma delicatula,Low
+IP068004222.jpg,1,Lycorma delicatula,Low
+IP068004575.jpg,1,Lycorma delicatula,Low
+IP068004738.jpg,1,Lycorma delicatula,Low
+IP068004741.jpg,1,Lycorma delicatula,Low
+IP068004944.jpg,1,Lycorma delicatula,Low
+IP068005282.jpg,1,Lycorma delicatula,Low
+IP069000154.jpg,1,Xylotrechus,Low
+IP069000203.jpg,1,Xylotrechus,Low
+IP069000346.jpg,1,Xylotrechus,Low
+IP069000396.jpg,1,Xylotrechus,Low
+IP069000696.jpg,1,Xylotrechus,Low
+IP069000773.jpg,1,Xylotrechus,Low
+IP069000802.jpg,1,Xylotrechus,Low
+IP069000887.jpg,1,Xylotrechus,Low
+IP069000981.jpg,1,Xylotrechus,Low
+IP069001112.jpg,1,Xylotrechus,Low
+IP069001140.jpg,1,Xylotrechus,Low
+IP070000181.jpg,1,Cicadella viridis,Low
+IP070000248.jpg,1,Cicadella viridis,Low
+IP070000612.jpg,1,Cicadella viridis,Low
+IP070000618.jpg,1,Cicadella viridis,Low
+IP070000627.jpg,1,Cicadella viridis,Low
+IP070000628.jpg,1,Cicadella viridis,Low
+IP070000738.jpg,1,Cicadellidae,Low
+IP070000927.jpg,1,Cicadella viridis,Low
+IP070001098.jpg,1,Cicadella viridis,Low
+IP070001135.jpg,1,Cicadellidae,Low
+IP070001190.jpg,1,Cicadella viridis,Low
+IP070001238.jpg,1,Cicadella viridis,Low
+IP070001246.jpg,1,Cicadellidae,Low
+IP070001277.jpg,1,Cicadella viridis,Low
+IP071000115.jpg,1,Miridae,Low
+IP071000134.jpg,1,Miridae,Low
+IP071000160.jpg,0,None,Clean
+IP071000203.jpg,1,Miridae,Low
+IP071000313.jpg,1,Miridae,Low
+IP071000542.jpg,1,Miridae,Low
+IP071000593.jpg,1,Miridae,Low
+IP071000698.jpg,1,Miridae,Low
+IP071000728.jpg,1,Miridae,Low
+IP071000756.jpg,1,Miridae,Low
+IP071000837.jpg,1,Miridae,Low
+IP071001025.jpg,1,Miridae,Low
+IP071001085.jpg,1,tarnished plant bug,Low
+IP071001241.jpg,1,Miridae,Low
+IP071001320.jpg,1,Miridae,Low
+IP071001336.jpg,0,None,Clean
+IP071001355.jpg,1,tarnished plant bug,Low
+IP071001519.jpg,0,None,Clean
+IP071001571.jpg,1,Miridae,Low
+IP071001618.jpg,1,Miridae,Low
+IP071001634.jpg,1,Miridae,Low
+IP071001678.jpg,1,Miridae,Low
+IP071001723.jpg,1,Miridae,Low
+IP071001753.jpg,1,Miridae,Low
+IP071001776.jpg,1,Miridae,Low
+IP071001791.jpg,1,Miridae,Low
+IP071001813.jpg,1,Miridae,Low
+IP071001850.jpg,1,Miridae,Low
+IP071001864.jpg,1,Miridae,Low
+IP071001935.jpg,1,Miridae,Low
+IP071002057.jpg,1,Miridae,Low
+IP071002129.jpg,1,Miridae,Low
+IP071002188.jpg,1,Miridae,Low
+IP071002273.jpg,1,Miridae,Low
+IP071002321.jpg,1,Miridae,Low
+IP071002337.jpg,1,Miridae,Low
+IP071002352.jpg,1,Miridae,Low
+IP071002390.jpg,1,Miridae,Low
+IP071002451.jpg,1,Miridae,Low
+IP071002453.jpg,1,Miridae,Low
+IP071002514.jpg,0,None,Clean
+IP071002523.jpg,1,Miridae,Low
+IP071002542.jpg,1,Miridae,Low
+IP071002553.jpg,1,Miridae,Low
+IP071002585.jpg,1,Miridae,Low
+IP071002608.jpg,1,Miridae,Low
+IP071002631.jpg,1,Miridae,Low
+IP071002696.jpg,0,None,Clean
+IP071002736.jpg,0,None,Clean
+IP071002758.jpg,1,Miridae,Low
+IP071002828.jpg,1,Miridae,Low
+IP071002863.jpg,1,Miridae,Low
+IP071002879.jpg,1,Locustoidea,Low
+IP071002896.jpg,1,Miridae,Low
+IP071002943.jpg,0,None,Clean
+IP071003023.jpg,1,Miridae,Low
+IP071003060.jpg,1,Miridae,Low
+IP071003093.jpg,1,Miridae,Low
+IP071003119.jpg,2,"Miridae, tarnished plant bug",Low
+IP071003134.jpg,1,Miridae,Low
+IP071003177.jpg,0,None,Clean
+IP071003196.jpg,1,Miridae,Low
+IP071003243.jpg,1,Miridae,Low
+IP071003249.jpg,1,Miridae,Low
+IP071003300.jpg,1,Miridae,Low
+IP071003377.jpg,1,Miridae,Low
+IP071003390.jpg,1,Miridae,Low
+IP071003430.jpg,0,None,Clean
+IP071003508.jpg,1,Locustoidea,Low
+IP071003525.jpg,1,Locustoidea,Low
+IP071003528.jpg,1,flea beetle,Low
+IP071003666.jpg,1,Miridae,Low
+IP071003949.jpg,1,Miridae,Low
+IP071003976.jpg,1,Miridae,Low
+IP071003982.jpg,0,None,Clean
+IP071004015.jpg,1,Miridae,Low
+IP071004402.jpg,1,Miridae,Low
+IP071004427.jpg,1,Miridae,Low
+IP071004573.jpg,1,Miridae,Low
+IP071004635.jpg,1,Miridae,Low
+IP071004718.jpg,1,Miridae,Low
+IP071004738.jpg,1,Miridae,Low
+IP071004756.jpg,0,None,Clean
+IP071004808.jpg,1,Locustoidea,Low
+IP071004863.jpg,1,Miridae,Low
+IP071004875.jpg,1,Miridae,Low
+IP071005030.jpg,1,Miridae,Low
+IP071005070.jpg,2,"Miridae, Cicadellidae",Low
+IP071005072.jpg,1,Miridae,Low
+IP072000016.jpg,0,None,Clean
+IP072000061.jpg,1,wheat phloeothrips,Low
+IP072000269.jpg,0,None,Clean
+IP072000332.jpg,0,None,Clean
+IP072000383.jpg,0,None,Clean
+IP072000405.jpg,0,None,Clean
+IP072000667.jpg,0,None,Clean
+IP073000040.jpg,2,"Erythroneura apicalis, Cicadellidae",Low
+IP074000061.jpg,2,"red spider, Papilio xuthus",Low
+IP074000141.jpg,1,red spider,Low
+IP074000254.jpg,1,Papilio xuthus,Low
+IP074000285.jpg,1,Papilio xuthus,Low
+IP074000382.jpg,1,Papilio xuthus,Low
+IP074000394.jpg,1,red spider,Low
+IP074000397.jpg,0,None,Clean
+IP075000063.jpg,1,Panonchus citri McGregor,Low
+IP075000118.jpg,1,red spider,Low
+IP075000211.jpg,0,None,Clean
+IP077000044.jpg,1,Icerya purchasi Maskell,Low
+IP077000062.jpg,2,Icerya purchasi Maskell,Low
+IP077000205.jpg,1,Icerya purchasi Maskell,Low
+IP077000211.jpg,1,Icerya purchasi Maskell,Low
+IP077000278.jpg,1,Icerya purchasi Maskell,Low
+IP077000336.jpg,1,Icerya purchasi Maskell,Low
+IP077000467.jpg,1,Ceroplastes rubens,Low
+IP077000493.jpg,3,Icerya purchasi Maskell,Low
+IP077000526.jpg,10,Icerya purchasi Maskell,Severe
+IP077000557.jpg,5,"Lawana imitata Melichar, Icerya purchasi Maskell",Moderate
+IP077000701.jpg,1,Icerya purchasi Maskell,Low
+IP078000354.jpg,22,Unaspis yanonensis,Severe
+IP078000371.jpg,22,Unaspis yanonensis,Severe
+IP079000013.jpg,11,Ceroplastes rubens,Severe
+IP079000074.jpg,7,Ceroplastes rubens,Moderate
+IP079000131.jpg,1,Ceroplastes rubens,Low
+IP079000144.jpg,1,Ceroplastes rubens,Low
+IP079000153.jpg,6,Ceroplastes rubens,Moderate
+IP080000048.jpg,1,Chrysomphalus aonidum,Low
+IP080000101.jpg,0,None,Clean
+IP080000209.jpg,1,Chrysomphalus aonidum,Low
+IP082000073.jpg,1,Icerya purchasi Maskell,Low
+IP082000074.jpg,0,None,Clean
+IP083000032.jpg,1,Aleurocanthus spiniferus,Low
+IP083000118.jpg,0,None,Clean
+IP083000121.jpg,1,Aleurocanthus spiniferus,Low
+IP083000628.jpg,1,Aleurocanthus spiniferus,Low
+IP084000087.jpg,1,Tetradacus c Bactrocera minax,Low
+IP084000253.jpg,1,Tetradacus c Bactrocera minax,Low
+IP084000312.jpg,1,Bactrocera tsuneonis,Low
+IP085000030.jpg,1,Dacus dorsalis(Hendel),Low
+IP085000045.jpg,1,Dacus dorsalis(Hendel),Low
+IP085000067.jpg,1,Dacus dorsalis(Hendel),Low
+IP085000111.jpg,1,Dacus dorsalis(Hendel),Low
+IP085000113.jpg,1,Dacus dorsalis(Hendel),Low
+IP085000225.jpg,1,Dacus dorsalis(Hendel),Low
+IP085000297.jpg,2,"Tetradacus c Bactrocera minax, Dacus dorsalis(Hendel)",Low
+IP085000326.jpg,1,Dacus dorsalis(Hendel),Low
+IP086000019.jpg,1,Dacus dorsalis(Hendel),Low
+IP086000079.jpg,1,Dacus dorsalis(Hendel),Low
+IP087000009.jpg,0,None,Clean
+IP087000124.jpg,1,Prodenia litura,Low
+IP087000161.jpg,0,None,Clean
+IP087000268.jpg,1,Prodenia litura,Low
+IP087000279.jpg,0,None,Clean
+IP087000464.jpg,0,None,Clean
+IP087000537.jpg,2,Prodenia litura,Low
+IP087000542.jpg,1,wireworm,Low
+IP087000582.jpg,1,Prodenia litura,Low
+IP087000588.jpg,0,None,Clean
+IP087000639.jpg,1,Rhytidodera bowrinii white,Low
+IP087000647.jpg,2,Prodenia litura,Low
+IP087000684.jpg,0,None,Clean
+IP087000732.jpg,1,Prodenia litura,Low
+IP087000812.jpg,0,None,Clean
+IP087000822.jpg,0,None,Clean
+IP087000830.jpg,1,Prodenia litura,Low
+IP087000845.jpg,0,None,Clean
+IP087000878.jpg,1,Prodenia litura,Low
+IP087000890.jpg,0,None,Clean
+IP087000893.jpg,1,Prodenia litura,Low
+IP087000950.jpg,1,black cutworm,Low
+IP087001036.jpg,1,meadow moth,Low
+IP087001083.jpg,1,Prodenia litura,Low
+IP087001105.jpg,0,None,Clean
+IP087001134.jpg,0,None,Clean
+IP087001194.jpg,0,None,Clean
+IP087001206.jpg,1,Prodenia litura,Low
+IP087001299.jpg,1,Prodenia litura,Low
+IP088000032.jpg,0,None,Clean
+IP088000053.jpg,1,Adristyrannus,Low
+IP088000109.jpg,1,Adristyrannus,Low
+IP088000143.jpg,2,"Adristyrannus, meadow moth",Low
+IP088000192.jpg,0,None,Clean
+IP088000195.jpg,1,Adristyrannus,Low
+IP088000215.jpg,0,None,Clean
+IP088000238.jpg,0,None,Clean
+IP088000239.jpg,1,Adristyrannus,Low
+IP089000078.jpg,1,Phyllocnistis citrella Stainton,Low
+IP089000215.jpg,2,"Phyllocnistis citrella Stainton, Cicadellidae",Low
+IP090000118.jpg,0,None,Clean
+IP091000203.jpg,2,"Toxoptera aurantii, Ceroplastes rubens",Low
+IP091000218.jpg,0,None,Clean
+IP093000101.jpg,0,None,Clean
+IP093000250.jpg,0,None,Clean
+IP093000254.jpg,0,None,Clean
+IP093000587.jpg,0,None,Clean
+IP093000746.jpg,1,Scirtothrips dorsalis Hood,Low
+IP094000285.jpg,0,None,Clean
+IP094000288.jpg,0,None,Clean
+IP095000015.jpg,3,Lawana imitata Melichar,Low
+IP095000082.jpg,1,Lawana imitata Melichar,Low
+IP095000112.jpg,1,Salurnis marginella Guerr,Low
+IP095000227.jpg,1,Lawana imitata Melichar,Low
+IP095000288.jpg,1,Lawana imitata Melichar,Low
+IP095000445.jpg,1,Salurnis marginella Guerr,Low
+IP095000463.jpg,1,Lawana imitata Melichar,Low
+IP095000489.jpg,1,Lawana imitata Melichar,Low
+IP095000505.jpg,1,Salurnis marginella Guerr,Low
+IP096000075.jpg,1,Salurnis marginella Guerr,Low
+IP096000090.jpg,1,Salurnis marginella Guerr,Low
+IP096000104.jpg,1,Salurnis marginella Guerr,Low
+IP096000160.jpg,1,Salurnis marginella Guerr,Low
+IP096000225.jpg,1,Salurnis marginella Guerr,Low
+IP096000254.jpg,1,Salurnis marginella Guerr,Low
+IP096000301.jpg,1,Salurnis marginella Guerr,Low
+IP096000362.jpg,1,Salurnis marginella Guerr,Low
+IP096000366.jpg,1,Salurnis marginella Guerr,Low
+IP096000461.jpg,1,Salurnis marginella Guerr,Low
+IP096000472.jpg,1,Salurnis marginella Guerr,Low
+IP096000475.jpg,1,Salurnis marginella Guerr,Low
+IP097000066.jpg,0,None,Clean
+IP097000085.jpg,1,flea beetle,Low
+IP097000106.jpg,0,None,Clean
+IP097000141.jpg,0,None,Clean
+IP098000001.jpg,1,flax budworm,Low
+IP098000057.jpg,0,None,Clean
+IP098000061.jpg,0,None,Clean
+IP098000063.jpg,1,Prodenia litura,Low
+IP099000048.jpg,1,Cicadellidae,Low
+IP100000066.jpg,1,Rhytidodera bowrinii white,Low
+IP100000075.jpg,1,Rhytidodera bowrinii white,Low
+IP100000077.jpg,1,Rhytidodera bowrinii white,Low
+IP100000254.jpg,0,None,Clean
+IP100000375.jpg,1,Rhytidodera bowrinii white,Low
+IP100000380.jpg,1,Rhytidodera bowrinii white,Low
+IP100000398.jpg,0,None,Clean
+IP100000406.jpg,1,Rhytidodera bowrinii white,Low
+IP100000456.jpg,1,Rhytidodera bowrinii white,Low
+IP100000484.jpg,1,Rhytidodera bowrinii white,Low
+IP101000242.jpg,1,rice water weevil,Low
+IP101000308.jpg,1,rice water weevil,Low
+IP101000323.jpg,1,Sternochetus frigidus,Low
+IP101000396.jpg,0,None,Clean
+IP102000033.jpg,1,Cicadellidae,Low
+IP102000081.jpg,1,Cicadella viridis,Low
+IP102000125.jpg,1,Cicadellidae,Low
+IP102000136.jpg,1,Cicadellidae,Low
+IP102000166.jpg,1,Cicadellidae,Low
+IP102000206.jpg,1,Cicadellidae,Low
+IP102000285.jpg,1,Cicadellidae,Low
+IP102000302.jpg,1,Cicadellidae,Low
+IP102000308.jpg,1,Cicadellidae,Low
+IP102000331.jpg,1,Cicadellidae,Low
+IP102000575.jpg,1,Cicadellidae,Low
+IP102000619.jpg,1,Cicadellidae,Low
+IP102000715.jpg,1,Cicadellidae,Low
+IP102000725.jpg,1,Cicadellidae,Low
+IP102000757.jpg,1,Cicadellidae,Low
+IP102000761.jpg,1,Cicadellidae,Low
+IP102000772.jpg,1,Cicadellidae,Low
+IP102000794.jpg,1,Cicadellidae,Low
+IP102000817.jpg,1,Cicadellidae,Low
+IP102000862.jpg,1,Cicadellidae,Low
+IP102000900.jpg,1,Cicadellidae,Low
+IP102000920.jpg,1,Cicadellidae,Low
+IP102000935.jpg,1,Cicadellidae,Low
+IP102000949.jpg,1,Cicadellidae,Low
+IP102000954.jpg,1,Cicadellidae,Low
+IP102000984.jpg,1,Cicadellidae,Low
+IP102001063.jpg,1,Cicadellidae,Low
+IP102001064.jpg,1,Cicadellidae,Low
+IP102001066.jpg,1,Cicadellidae,Low
+IP102001107.jpg,1,Cicadellidae,Low
+IP102001130.jpg,1,Cicadellidae,Low
+IP102001155.jpg,1,Cicadellidae,Low
+IP102001161.jpg,1,Cicadellidae,Low
+IP102001232.jpg,1,Cicadellidae,Low
+IP102001237.jpg,1,Cicadellidae,Low
+IP102001250.jpg,1,Cicadellidae,Low
+IP102001289.jpg,1,Cicadellidae,Low
+IP102001324.jpg,1,Cicadellidae,Low
+IP102001332.jpg,1,Cicadellidae,Low
+IP102001362.jpg,1,Cicadellidae,Low
+IP102001373.jpg,1,Cicadellidae,Low
+IP102001410.jpg,1,Cicadellidae,Low
+IP102001415.jpg,1,Cicadellidae,Low
+IP102001463.jpg,1,Cicadellidae,Low
+IP102001478.jpg,1,Cicadellidae,Low
+IP102001545.jpg,1,Cicadellidae,Low
+IP102001564.jpg,1,Cicadellidae,Low
+IP102001586.jpg,1,Cicadellidae,Low
+IP102001619.jpg,1,Cicadellidae,Low
+IP102001625.jpg,1,Cicadellidae,Low
+IP102001674.jpg,1,Cicadellidae,Low
+IP102001752.jpg,1,Cicadellidae,Low
+IP102001778.jpg,1,Cicadellidae,Low
+IP102001809.jpg,1,Cicadellidae,Low
+IP102001836.jpg,2,Cicadellidae,Low
+IP102001837.jpg,1,Cicadellidae,Low
+IP102001883.jpg,1,Cicadellidae,Low
+IP102001905.jpg,1,Cicadellidae,Low
+IP102001930.jpg,1,Cicadellidae,Low
+IP102001931.jpg,1,Cicadellidae,Low
+IP102001944.jpg,1,Cicadellidae,Low
+IP102001950.jpg,1,Cicadellidae,Low
+IP102002027.jpg,1,Cicadellidae,Low
+IP102002047.jpg,1,Cicadellidae,Low
+IP102002081.jpg,1,Cicadellidae,Low
+IP102002093.jpg,1,Cicadellidae,Low
+IP102002148.jpg,1,Cicadellidae,Low
+IP102002233.jpg,1,Cicadellidae,Low
+IP102002259.jpg,1,Cicadellidae,Low
+IP102002262.jpg,1,Cicadellidae,Low
+IP102002267.jpg,1,Cicadellidae,Low
+IP102002272.jpg,1,Cicadellidae,Low
+IP102002273.jpg,1,Cicadellidae,Low
+IP102002300.jpg,1,Cicadellidae,Low
+IP102002334.jpg,1,Cicadellidae,Low
+IP102002342.jpg,1,Cicadellidae,Low
+IP102002344.jpg,1,Cicadellidae,Low
+IP102002374.jpg,1,Cicadellidae,Low
+IP102002395.jpg,1,Cicadellidae,Low
+IP102002446.jpg,1,Cicadellidae,Low
+IP102002473.jpg,1,Cicadellidae,Low
+IP102002484.jpg,1,Cicadellidae,Low
+IP102002546.jpg,1,Cicadellidae,Low
+IP102002603.jpg,2,Cicadellidae,Low
+IP102002649.jpg,1,Cicadellidae,Low
+IP102002658.jpg,1,Cicadellidae,Low
+IP102002687.jpg,1,Cicadellidae,Low
+IP102002699.jpg,1,Cicadellidae,Low
+IP102002730.jpg,1,Cicadellidae,Low
+IP102002810.jpg,1,Cicadellidae,Low
+IP102002842.jpg,1,Cicadellidae,Low
+IP102002843.jpg,1,Cicadellidae,Low
+IP102002872.jpg,1,Cicadellidae,Low
+IP102002921.jpg,1,Cicadellidae,Low
+IP102002931.jpg,1,Cicadellidae,Low
+IP102002998.jpg,1,Cicadellidae,Low
+IP102003045.jpg,1,Cicadellidae,Low
+IP102003068.jpg,1,Cicadellidae,Low
+IP102003082.jpg,1,Cicadellidae,Low
+IP102003103.jpg,1,Cicadellidae,Low
+IP102003107.jpg,1,Cicadellidae,Low
+IP102003112.jpg,1,Cicadellidae,Low
+IP102003159.jpg,1,Cicadellidae,Low
+IP102003189.jpg,1,Cicadellidae,Low
+IP102003197.jpg,1,Cicadellidae,Low
+IP102003274.jpg,1,Cicadellidae,Low
+IP102003275.jpg,1,Cicadellidae,Low
+IP102003299.jpg,1,Cicadellidae,Low
+IP102003320.jpg,1,Cicadellidae,Low
+IP102003325.jpg,1,Cicadellidae,Low
+IP102003338.jpg,1,Cicadellidae,Low
+IP102003343.jpg,1,Cicadellidae,Low
+IP102003373.jpg,1,Cicadellidae,Low
+IP102003381.jpg,1,Cicadellidae,Low
+IP102003383.jpg,1,Cicadellidae,Low
+IP102003446.jpg,1,Cicadellidae,Low
+IP102003454.jpg,1,Cicadellidae,Low
+IP102003459.jpg,1,Cicadellidae,Low
+IP102003465.jpg,1,Cicadellidae,Low
+IP102003503.jpg,1,Cicadellidae,Low
+IP102003545.jpg,1,Cicadellidae,Low
+IP102003562.jpg,1,Cicadellidae,Low
+IP102003575.jpg,1,Cicadellidae,Low
+IP102003579.jpg,1,Cicadellidae,Low
+IP102003587.jpg,1,Cicadellidae,Low
+IP102003601.jpg,1,Cicadellidae,Low
+IP102003608.jpg,1,Cicadellidae,Low
+IP102003615.jpg,1,Miridae,Low
+IP102003623.jpg,1,Cicadellidae,Low
+IP102003660.jpg,1,Cicadellidae,Low
+IP102003671.jpg,1,Cicadellidae,Low
+IP102003709.jpg,1,Cicadellidae,Low
+IP102003724.jpg,1,Cicadellidae,Low
+IP102003726.jpg,1,Cicadellidae,Low
+IP102003734.jpg,1,Cicadellidae,Low
+IP102003742.jpg,1,Cicadellidae,Low
+IP102003754.jpg,1,Cicadellidae,Low
+IP102003762.jpg,1,Cicadellidae,Low
+IP102003772.jpg,1,Cicadellidae,Low
+IP102003784.jpg,1,Cicadellidae,Low
+IP102003787.jpg,1,Cicadellidae,Low
+IP102003818.jpg,1,Cicadellidae,Low
+IP102003823.jpg,1,Cicadellidae,Low
+IP102003852.jpg,1,Cicadellidae,Low
+IP102003874.jpg,1,Cicadellidae,Low
+IP102003905.jpg,1,Cicadellidae,Low
+IP102003936.jpg,1,Cicadellidae,Low
+IP102003939.jpg,1,Cicadellidae,Low
+IP102003951.jpg,1,Cicadellidae,Low
+IP102003975.jpg,1,Cicadellidae,Low
+IP102003985.jpg,1,Cicadellidae,Low
+IP102003997.jpg,1,Cicadellidae,Low
+IP102004017.jpg,1,Cicadellidae,Low
+IP102004062.jpg,1,Cicadellidae,Low
+IP102004095.jpg,1,Cicadellidae,Low
+IP102004117.jpg,1,Cicadellidae,Low
+IP102004130.jpg,1,Cicadellidae,Low
+IP102004141.jpg,1,Cicadellidae,Low
+IP102004144.jpg,1,Cicadellidae,Low
+IP102004192.jpg,1,Cicadellidae,Low
+IP102004234.jpg,1,Cicadellidae,Low
+IP102004247.jpg,1,Cicadellidae,Low
+IP102004343.jpg,1,Cicadellidae,Low
+IP102004377.jpg,1,Cicadellidae,Low
+IP102004387.jpg,1,Cicadellidae,Low
+IP102004425.jpg,1,Cicadellidae,Low
+IP102004453.jpg,1,Cicadellidae,Low
+IP102004490.jpg,1,Cicadellidae,Low
+IP102004504.jpg,1,Cicadellidae,Low
+IP102004527.jpg,1,Cicadellidae,Low
+IP102004552.jpg,1,Cicadellidae,Low
+IP102004572.jpg,1,Cicadellidae,Low
+IP102004592.jpg,1,Cicadellidae,Low
+IP102004629.jpg,1,Cicadellidae,Low
+IP102004638.jpg,1,Cicadellidae,Low
+IP102004804.jpg,1,Cicadellidae,Low
+IP102004805.jpg,1,Cicadella viridis,Low
+IP102004863.jpg,1,Cicadellidae,Low
+IP102004918.jpg,2,Cicadellidae,Low
+IP102004952.jpg,1,Cicadellidae,Low
+IP102004997.jpg,1,Cicadellidae,Low
+IP102005061.jpg,1,Cicadellidae,Low
+IP102005133.jpg,1,Cicadellidae,Low
+IP102005218.jpg,2,Cicadellidae,Low
+IP102005277.jpg,1,Cicadellidae,Low
+IP102005281.jpg,1,Cicadellidae,Low
+IP102005353.jpg,1,Cicadellidae,Low
+IP102005359.jpg,1,Cicadellidae,Low
+IP102005402.jpg,1,Cicadellidae,Low
+IP102005413.jpg,1,Cicadellidae,Low
+IP102005453.jpg,1,Cicadellidae,Low
+IP102005468.jpg,2,"Cicadella viridis, Cicadellidae",Low
+IP102005487.jpg,1,Cicadellidae,Low
+IP102005488.jpg,1,Cicadellidae,Low
+IP102005497.jpg,1,Cicadellidae,Low
+IP102005499.jpg,1,Cicadellidae,Low
+IP102005547.jpg,0,None,Clean
+IP102005566.jpg,0,None,Clean
+IP102005586.jpg,1,Cicadellidae,Low
+IP102005607.jpg,1,Cicadellidae,Low
+IP102005628.jpg,0,None,Clean
+IP102005656.jpg,1,Cicadellidae,Low
+IP102005664.jpg,1,Cicadellidae,Low
+IP102005702.jpg,1,Cicadellidae,Low
+IP102005725.jpg,1,Cicadellidae,Low
+IP000000108.jpg,1,rice leaf roller,Low
+IP000000322.jpg,1,rice leaf roller,Low
+IP000000354.jpg,1,rice leaf roller,Low
+IP000000446.jpg,1,rice leaf roller,Low
+IP000000544.jpg,1,rice leaf roller,Low
+IP000000557.jpg,1,rice leaf roller,Low
+IP000000564.jpg,1,rice leaf roller,Low
+IP000000623.jpg,1,rice leaf roller,Low
+IP000000647.jpg,1,rice leaf roller,Low
+IP000000698.jpg,1,rice leaf roller,Low
+IP000000827.jpg,1,rice leaf roller,Low
+IP000000854.jpg,2,rice leaf roller,Low
+IP001000015.jpg,1,rice leaf roller,Low
+IP001000108.jpg,0,None,Clean
+IP001000305.jpg,1,rice leaf roller,Low
+IP001000333.jpg,1,army worm,Low
+IP001000337.jpg,0,None,Clean
+IP001000347.jpg,1,rice leaf roller,Low
+IP001000419.jpg,1,wireworm,Low
+IP001000431.jpg,0,None,Clean
+IP002000015.jpg,0,None,Clean
+IP002000158.jpg,0,None,Clean
+IP003000066.jpg,2,asiatic rice borer,Low
+IP003000154.jpg,0,None,Clean
+IP003000156.jpg,1,asiatic rice borer,Low
+IP003000169.jpg,1,corn borer,Low
+IP003000173.jpg,1,asiatic rice borer,Low
+IP003000202.jpg,0,None,Clean
+IP003000290.jpg,0,None,Clean
+IP003000569.jpg,0,None,Clean
+IP003000587.jpg,1,asiatic rice borer,Low
+IP003000633.jpg,1,meadow moth,Low
+IP003001006.jpg,1,corn borer,Low
+IP003001018.jpg,1,rice leaf roller,Low
+IP004000077.jpg,1,yellow rice borer,Low
+IP004000098.jpg,1,yellow rice borer,Low
+IP004000220.jpg,0,None,Clean
+IP004000344.jpg,1,yellow rice borer,Low
+IP004000387.jpg,1,yellow rice borer,Low
+IP004000444.jpg,1,yellow rice borer,Low
+IP005000080.jpg,0,None,Clean
+IP005000093.jpg,1,rice gall midge,Low
+IP005000342.jpg,1,rice gall midge,Low
+IP005000350.jpg,1,rice gall midge,Low
+IP005000415.jpg,1,rice gall midge,Low
+IP005000423.jpg,1,rice gall midge,Low
+IP005000433.jpg,1,rice gall midge,Low
+IP006000237.jpg,1,Beet spot flies,Low
+IP006000368.jpg,1,Rice Stemfly,Low
+IP007000004.jpg,1,Cicadellidae,Low
+IP007000007.jpg,1,Lawana imitata Melichar,Low
+IP007000140.jpg,1,brown plant hopper,Low
+IP007000141.jpg,1,Cicadellidae,Low
+IP007000142.jpg,1,Cicadellidae,Low
+IP007000162.jpg,1,Cicadellidae,Low
+IP007000186.jpg,1,brown plant hopper,Low
+IP007000592.jpg,1,Cicadellidae,Low
+IP008000039.jpg,1,white backed plant hopper,Low
+IP008000098.jpg,0,None,Clean
+IP008000367.jpg,0,None,Clean
+IP008000460.jpg,0,None,Clean
+IP008000568.jpg,1,white backed plant hopper,Low
+IP009000000.jpg,1,small brown plant hopper,Low
+IP009000032.jpg,0,None,Clean
+IP009000128.jpg,0,None,Clean
+IP009000148.jpg,0,None,Clean
+IP010000101.jpg,1,rice water weevil,Low
+IP010000120.jpg,1,rice water weevil,Low
+IP010000153.jpg,1,rice water weevil,Low
+IP010000324.jpg,0,None,Clean
+IP010000499.jpg,0,None,Clean
+IP010000501.jpg,0,None,Clean
+IP010000561.jpg,0,None,Clean
+IP010000683.jpg,1,rice water weevil,Low
+IP010000735.jpg,0,None,Clean
+IP010000788.jpg,1,rice water weevil,Low
+IP010000835.jpg,1,rice water weevil,Low
+IP011000095.jpg,1,rice leafhopper,Low
+IP011000203.jpg,1,rice leafhopper,Low
+IP011000207.jpg,1,rice leafhopper,Low
+IP011000245.jpg,1,rice leafhopper,Low
+IP011000274.jpg,1,Cicadellidae,Low
+IP011000351.jpg,1,rice leafhopper,Low
+IP011000375.jpg,1,Cicadellidae,Low
+IP011000378.jpg,1,Cicadellidae,Low
+IP012000096.jpg,0,None,Clean
+IP013000237.jpg,0,None,Clean
+IP013000261.jpg,0,None,Clean
+IP013000269.jpg,1,rice shell pest,Low
+IP014000010.jpg,1,grub,Low
+IP014000090.jpg,1,grub,Low
+IP014000091.jpg,1,grub,Low
+IP014000140.jpg,1,grub,Low
+IP014000186.jpg,1,grub,Low
+IP014000189.jpg,1,grub,Low
+IP014000211.jpg,7,grub,Moderate
+IP014000212.jpg,1,grub,Low
+IP014000257.jpg,1,grub,Low
+IP014000267.jpg,2,grub,Low
+IP014000284.jpg,7,grub,Moderate
+IP014000399.jpg,3,grub,Low
+IP014000480.jpg,5,grub,Moderate
+IP014000500.jpg,1,grub,Low
+IP014000513.jpg,7,grub,Moderate
+IP014000518.jpg,0,None,Clean
+IP014000570.jpg,2,grub,Low
+IP014000609.jpg,1,grub,Low
+IP014000624.jpg,1,grub,Low
+IP014000626.jpg,1,grub,Low
+IP014000632.jpg,2,grub,Low
+IP014000645.jpg,1,grub,Low
+IP014000677.jpg,1,grub,Low
+IP014000695.jpg,2,grub,Low
+IP014000707.jpg,2,grub,Low
+IP014000731.jpg,1,grub,Low
+IP014000740.jpg,5,grub,Moderate
+IP014000749.jpg,1,grub,Low
+IP014000793.jpg,1,grub,Low
+IP014000831.jpg,1,grub,Low
+IP014000845.jpg,3,grub,Low
+IP015000008.jpg,1,mole cricket,Low
+IP015000019.jpg,1,mole cricket,Low
+IP015000025.jpg,1,mole cricket,Low
+IP015000034.jpg,1,mole cricket,Low
+IP015000040.jpg,1,mole cricket,Low
+IP015000048.jpg,1,mole cricket,Low
+IP015000051.jpg,1,mole cricket,Low
+IP015000112.jpg,1,mole cricket,Low
+IP015000122.jpg,1,mole cricket,Low
+IP015000135.jpg,1,mole cricket,Low
+IP015000165.jpg,1,mole cricket,Low
+IP015000196.jpg,1,mole cricket,Low
+IP015000207.jpg,1,mole cricket,Low
+IP015000247.jpg,1,mole cricket,Low
+IP015000297.jpg,1,mole cricket,Low
+IP015000301.jpg,1,mole cricket,Low
+IP015000325.jpg,1,mole cricket,Low
+IP015000340.jpg,1,mole cricket,Low
+IP015000345.jpg,1,mole cricket,Low
+IP015000368.jpg,1,mole cricket,Low
+IP015000411.jpg,1,mole cricket,Low
+IP015000413.jpg,1,mole cricket,Low
+IP015000421.jpg,1,mole cricket,Low
+IP015000433.jpg,1,mole cricket,Low
+IP015000460.jpg,1,mole cricket,Low
+IP015000496.jpg,1,mole cricket,Low
+IP015000510.jpg,1,mole cricket,Low
+IP015000573.jpg,1,mole cricket,Low
+IP015000574.jpg,1,mole cricket,Low
+IP015000593.jpg,1,mole cricket,Low
+IP015000600.jpg,1,mole cricket,Low
+IP015000619.jpg,1,mole cricket,Low
+IP015000650.jpg,1,mole cricket,Low
+IP015000719.jpg,1,mole cricket,Low
+IP015000721.jpg,1,mole cricket,Low
+IP015000746.jpg,1,mole cricket,Low
+IP015000763.jpg,1,mole cricket,Low
+IP015000765.jpg,1,mole cricket,Low
+IP015000771.jpg,1,mole cricket,Low
+IP015000869.jpg,1,mole cricket,Low
+IP015000889.jpg,1,mole cricket,Low
+IP015000935.jpg,1,mole cricket,Low
+IP015000941.jpg,1,mole cricket,Low
+IP015001004.jpg,1,mole cricket,Low
+IP015001006.jpg,1,mole cricket,Low
+IP015001202.jpg,1,mole cricket,Low
+IP015001261.jpg,1,mole cricket,Low
+IP015001284.jpg,1,mole cricket,Low
+IP015001315.jpg,1,mole cricket,Low
+IP015001317.jpg,1,mole cricket,Low
+IP015001320.jpg,1,mole cricket,Low
+IP015001331.jpg,1,mole cricket,Low
+IP015001360.jpg,1,mole cricket,Low
+IP015001369.jpg,1,mole cricket,Low
+IP015001406.jpg,1,mole cricket,Low
+IP015001490.jpg,1,mole cricket,Low
+IP015001496.jpg,1,mole cricket,Low
+IP015001556.jpg,1,mole cricket,Low
+IP015001578.jpg,1,mole cricket,Low
+IP015001579.jpg,1,mole cricket,Low
+IP015001590.jpg,1,mole cricket,Low
+IP016000020.jpg,3,wireworm,Low
+IP016000090.jpg,1,wireworm,Low
+IP016000115.jpg,1,wireworm,Low
+IP016000167.jpg,1,wireworm,Low
+IP016000213.jpg,1,wireworm,Low
+IP016000220.jpg,1,wireworm,Low
+IP016000234.jpg,2,wireworm,Low
+IP016000282.jpg,1,wireworm,Low
+IP016000285.jpg,0,None,Clean
+IP016000371.jpg,4,wireworm,Moderate
+IP016000406.jpg,1,wireworm,Low
+IP016000452.jpg,2,"blister beetle, wireworm",Low
+IP016000455.jpg,1,wireworm,Low
+IP016000460.jpg,2,wireworm,Low
+IP016000504.jpg,1,wireworm,Low
+IP016000505.jpg,1,wireworm,Low
+IP016000511.jpg,1,wireworm,Low
+IP016000573.jpg,1,wireworm,Low
+IP016000622.jpg,1,wireworm,Low
+IP016000640.jpg,1,wireworm,Low
+IP016000654.jpg,1,wireworm,Low
+IP016000677.jpg,1,wireworm,Low
+IP016000706.jpg,2,wireworm,Low
+IP016000708.jpg,1,wireworm,Low
+IP016000739.jpg,1,wireworm,Low
+IP016000765.jpg,1,wireworm,Low
+IP016000768.jpg,1,wireworm,Low
+IP016000784.jpg,1,wireworm,Low
+IP016000797.jpg,1,wireworm,Low
+IP016000849.jpg,1,wireworm,Low
+IP017000002.jpg,1,black cutworm,Low
+IP017000023.jpg,1,black cutworm,Low
+IP017000075.jpg,1,black cutworm,Low
+IP018000072.jpg,1,black cutworm,Low
+IP018000098.jpg,1,black cutworm,Low
+IP018000168.jpg,1,black cutworm,Low
+IP018000169.jpg,1,black cutworm,Low
+IP018000253.jpg,1,black cutworm,Low
+IP018000342.jpg,1,black cutworm,Low
+IP018000392.jpg,1,black cutworm,Low
+IP018000399.jpg,1,black cutworm,Low
+IP018000412.jpg,1,black cutworm,Low
+IP018000452.jpg,1,black cutworm,Low
+IP018000463.jpg,1,black cutworm,Low
+IP018000490.jpg,1,black cutworm,Low
+IP018000575.jpg,1,black cutworm,Low
+IP018000583.jpg,0,None,Clean
+IP018000593.jpg,1,black cutworm,Low
+IP018000632.jpg,0,None,Clean
+IP018000713.jpg,1,black cutworm,Low
+IP018000774.jpg,1,black cutworm,Low
+IP018000779.jpg,1,black cutworm,Low
+IP018000785.jpg,0,None,Clean
+IP018000794.jpg,1,black cutworm,Low
+IP019000001.jpg,1,black cutworm,Low
+IP019000035.jpg,2,black cutworm,Low
+IP019000131.jpg,0,None,Clean
+IP019000144.jpg,1,black cutworm,Low
+IP019000173.jpg,1,black cutworm,Low
+IP019000214.jpg,2,black cutworm,Low
+IP019000276.jpg,1,black cutworm,Low
+IP019000307.jpg,1,black cutworm,Low
+IP019000322.jpg,1,black cutworm,Low
+IP019000425.jpg,1,black cutworm,Low
+IP019000452.jpg,0,None,Clean
+IP020000008.jpg,1,black cutworm,Low
+IP020000012.jpg,0,None,Clean
+IP020000020.jpg,0,None,Clean
+IP020000065.jpg,1,Prodenia litura,Low
+IP020000173.jpg,1,black cutworm,Low
+IP020000224.jpg,0,None,Clean
+IP020000243.jpg,0,None,Clean
+IP020000259.jpg,1,black cutworm,Low
+IP020000266.jpg,1,black cutworm,Low
+IP020000309.jpg,0,None,Clean
+IP020000315.jpg,0,None,Clean
+IP020000357.jpg,1,yellow cutworm,Low
+IP020000360.jpg,1,yellow cutworm,Low
+IP020000386.jpg,0,None,Clean
+IP021000037.jpg,2,"red spider, Papilio xuthus",Low
+IP021000067.jpg,0,None,Clean
+IP021000114.jpg,1,red spider,Low
+IP021000138.jpg,1,red spider,Low
+IP021000180.jpg,1,red spider,Low
+IP021000188.jpg,1,red spider,Low
+IP021000309.jpg,1,red spider,Low
+IP021000311.jpg,1,red spider,Low
+IP021000341.jpg,0,None,Clean
+IP021000394.jpg,1,red spider,Low
+IP021000427.jpg,2,"red spider, Papilio xuthus",Low
+IP022000018.jpg,1,Prodenia litura,Low
+IP022000147.jpg,1,corn borer,Low
+IP022000182.jpg,1,corn borer,Low
+IP022000201.jpg,1,corn borer,Low
+IP022000251.jpg,1,corn borer,Low
+IP022000270.jpg,1,corn borer,Low
+IP022000278.jpg,1,corn borer,Low
+IP022000280.jpg,1,corn borer,Low
+IP022000288.jpg,1,corn borer,Low
+IP022000313.jpg,1,corn borer,Low
+IP022000320.jpg,1,corn borer,Low
+IP022000332.jpg,1,corn borer,Low
+IP022000333.jpg,1,corn borer,Low
+IP022000346.jpg,1,corn borer,Low
+IP022000362.jpg,1,corn borer,Low
+IP022000520.jpg,1,corn borer,Low
+IP022000670.jpg,0,None,Clean
+IP022000733.jpg,0,None,Clean
+IP022000751.jpg,1,corn borer,Low
+IP022000755.jpg,0,None,Clean
+IP022000795.jpg,0,None,Clean
+IP022000797.jpg,0,None,Clean
+IP022000969.jpg,2,corn borer,Low
+IP022000993.jpg,1,corn borer,Low
+IP022001042.jpg,1,corn borer,Low
+IP022001086.jpg,1,corn borer,Low
+IP022001461.jpg,0,None,Clean
+IP022001603.jpg,1,corn borer,Low
+IP022001609.jpg,0,None,Clean
+IP022001628.jpg,0,None,Clean
+IP023000098.jpg,2,army worm,Low
+IP023000128.jpg,1,army worm,Low
+IP023000340.jpg,1,rice leaf roller,Low
+IP023000365.jpg,1,army worm,Low
+IP023000438.jpg,1,beet army worm,Low
+IP023000462.jpg,1,yellow cutworm,Low
+IP023000634.jpg,0,None,Clean
+IP023000654.jpg,0,None,Clean
+IP023000678.jpg,0,None,Clean
+IP023000766.jpg,1,army worm,Low
+IP023000826.jpg,2,army worm,Low
+IP023000954.jpg,1,flax budworm,Low
+IP023000999.jpg,1,army worm,Low
+IP023001064.jpg,0,None,Clean
+IP024000059.jpg,1,aphids,Low
+IP024000204.jpg,8,aphids,Severe
+IP024000250.jpg,3,aphids,Low
+IP024000259.jpg,1,aphids,Low
+IP024000260.jpg,1,aphids,Low
+IP024000322.jpg,0,None,Clean
+IP024000370.jpg,1,aphids,Low
+IP024000404.jpg,1,aphids,Low
+IP024000427.jpg,2,aphids,Low
+IP024000490.jpg,1,aphids,Low
+IP024000558.jpg,7,aphids,Moderate
+IP024000656.jpg,3,aphids,Low
+IP024000732.jpg,1,aphids,Low
+IP024000756.jpg,1,aphids,Low
+IP024000786.jpg,1,aphids,Low
+IP024000789.jpg,1,aphids,Low
+IP024000872.jpg,1,aphids,Low
+IP024000964.jpg,1,aphids,Low
+IP024001042.jpg,1,aphids,Low
+IP024001097.jpg,1,aphids,Low
+IP024001194.jpg,1,aphids,Low
+IP024001258.jpg,1,aphids,Low
+IP024001305.jpg,1,Cicadellidae,Low
+IP024001314.jpg,1,aphids,Low
+IP024001412.jpg,1,aphids,Low
+IP024001432.jpg,1,Cicadellidae,Low
+IP024001433.jpg,2,"aphids, Cicadellidae",Low
+IP024001451.jpg,1,aphids,Low
+IP024001463.jpg,4,aphids,Moderate
+IP024001501.jpg,1,aphids,Low
+IP024001535.jpg,1,aphids,Low
+IP024001608.jpg,2,aphids,Low
+IP024001619.jpg,1,bird cherry-oataphid,Low
+IP024001700.jpg,1,aphids,Low
+IP024001779.jpg,3,aphids,Low
+IP024001780.jpg,3,aphids,Low
+IP024001876.jpg,1,aphids,Low
+IP024001921.jpg,1,aphids,Low
+IP024001972.jpg,1,aphids,Low
+IP024002003.jpg,1,aphids,Low
+IP024002512.jpg,1,aphids,Low
+IP024002575.jpg,1,aphids,Low
+IP024002607.jpg,2,aphids,Low
+IP024002611.jpg,3,aphids,Low
+IP024002645.jpg,1,aphids,Low
+IP024002741.jpg,0,None,Clean
+IP024002744.jpg,0,None,Clean
+IP024002793.jpg,4,aphids,Moderate
+IP024002811.jpg,1,aphids,Low
+IP024002820.jpg,5,aphids,Moderate
+IP024002840.jpg,6,aphids,Moderate
+IP024002888.jpg,1,aphids,Low
+IP024003003.jpg,1,aphids,Low
+IP024003007.jpg,1,aphids,Low
+IP024003183.jpg,1,aphids,Low
+IP024003309.jpg,1,aphids,Low
+IP024003334.jpg,1,aphids,Low
+IP024003580.jpg,1,aphids,Low
+IP024003609.jpg,3,aphids,Low
+IP024003643.jpg,1,aphids,Low
+IP024003743.jpg,1,aphids,Low
+IP024003932.jpg,1,aphids,Low
+IP025000013.jpg,1,Potosiabre vitarsis,Low
+IP025000049.jpg,1,Potosiabre vitarsis,Low
+IP025000063.jpg,1,Potosiabre vitarsis,Low
+IP025000221.jpg,0,None,Clean
+IP025000236.jpg,1,Potosiabre vitarsis,Low
+IP025000245.jpg,1,Potosiabre vitarsis,Low
+IP025000272.jpg,1,Potosiabre vitarsis,Low
+IP025000343.jpg,1,Potosiabre vitarsis,Low
+IP025000420.jpg,1,Potosiabre vitarsis,Low
+IP025000437.jpg,1,Potosiabre vitarsis,Low
+IP025000476.jpg,1,Potosiabre vitarsis,Low
+IP025000484.jpg,1,Potosiabre vitarsis,Low
+IP025000494.jpg,1,Potosiabre vitarsis,Low
+IP025000564.jpg,2,Potosiabre vitarsis,Low
+IP026000029.jpg,1,peach borer,Low
+IP026000039.jpg,1,peach borer,Low
+IP026000054.jpg,1,peach borer,Low
+IP026000135.jpg,1,peach borer,Low
+IP026000199.jpg,1,peach borer,Low
+IP026000227.jpg,0,None,Clean
+IP026000252.jpg,1,peach borer,Low
+IP026000381.jpg,1,peach borer,Low
+IP026000407.jpg,0,None,Clean
+IP026000413.jpg,1,peach borer,Low
+IP026000419.jpg,1,grub,Low
+IP026000487.jpg,1,wireworm,Low
+IP026000546.jpg,1,peach borer,Low
+IP026000585.jpg,1,peach borer,Low
+IP026000631.jpg,1,peach borer,Low
+IP026000679.jpg,1,wireworm,Low
+IP026000681.jpg,1,peach borer,Low
+IP027000077.jpg,1,aphids,Low
+IP027000081.jpg,0,None,Clean
+IP027000175.jpg,2,"bird cherry-oataphid, english grain aphid",Low
+IP027000299.jpg,1,aphids,Low
+IP027000391.jpg,0,None,Clean
+IP027000411.jpg,2,english grain aphid,Low
+IP027000473.jpg,6,aphids,Moderate
+IP027000522.jpg,0,None,Clean
+IP027000577.jpg,0,None,Clean
+IP028000035.jpg,0,None,Clean
+IP028000125.jpg,1,aphids,Low
+IP029000184.jpg,1,aphids,Low
+IP029000397.jpg,0,None,Clean
+IP029000451.jpg,1,aphids,Low
+IP029000493.jpg,1,aphids,Low
+IP029000520.jpg,1,english grain aphid,Low
+IP030000154.jpg,1,wheat sawfly,Low
+IP030000257.jpg,1,wheat blossom midge,Low
+IP032000055.jpg,1,penthaleus major,Low
+IP032000058.jpg,0,None,Clean
+IP032000120.jpg,1,penthaleus major,Low
+IP032000121.jpg,1,penthaleus major,Low
+IP032000124.jpg,1,penthaleus major,Low
+IP033000146.jpg,0,None,Clean
+IP033000148.jpg,0,None,Clean
+IP033000163.jpg,1,red spider,Low
+IP033000206.jpg,0,None,Clean
+IP034000040.jpg,1,wheat phloeothrips,Low
+IP034000058.jpg,1,wheat phloeothrips,Low
+IP034000131.jpg,1,grain spreader thrips,Low
+IP034000226.jpg,1,wheat phloeothrips,Low
+IP034000251.jpg,1,wheat phloeothrips,Low
+IP034000280.jpg,1,wheat phloeothrips,Low
+IP035000068.jpg,1,wheat sawfly,Low
+IP035000089.jpg,1,wheat sawfly,Low
+IP035000096.jpg,1,wheat sawfly,Low
+IP035000136.jpg,1,wheat sawfly,Low
+IP035000204.jpg,1,wheat sawfly,Low
+IP035000213.jpg,1,wheat sawfly,Low
+IP035000229.jpg,1,wheat sawfly,Low
+IP035000269.jpg,0,None,Clean
+IP035000280.jpg,0,None,Clean
+IP035000288.jpg,1,wheat sawfly,Low
+IP036000102.jpg,1,Beet spot flies,Low
+IP036000113.jpg,0,None,Clean
+IP037000040.jpg,0,None,Clean
+IP037000093.jpg,1,Beet spot flies,Low
+IP038000014.jpg,1,flea beetle,Low
+IP038000143.jpg,1,flea beetle,Low
+IP038000150.jpg,1,flea beetle,Low
+IP038000163.jpg,1,flea beetle,Low
+IP038000176.jpg,1,flea beetle,Low
+IP038000198.jpg,1,flea beetle,Low
+IP038000225.jpg,1,blister beetle,Low
+IP038000256.jpg,1,flea beetle,Low
+IP038000266.jpg,1,flea beetle,Low
+IP038000380.jpg,1,flea beetle,Low
+IP038000450.jpg,1,flea beetle,Low
+IP038000453.jpg,2,flea beetle,Low
+IP038000463.jpg,1,flea beetle,Low
+IP038000478.jpg,1,flea beetle,Low
+IP038000483.jpg,1,flea beetle,Low
+IP038000511.jpg,1,flea beetle,Low
+IP038000521.jpg,1,flea beetle,Low
+IP038000536.jpg,1,flea beetle,Low
+IP038000540.jpg,1,flea beetle,Low
+IP038000563.jpg,1,flea beetle,Low
+IP038000643.jpg,1,flea beetle,Low
+IP038000665.jpg,1,flea beetle,Low
+IP038000714.jpg,0,None,Clean
+IP038000720.jpg,1,flea beetle,Low
+IP039000005.jpg,0,None,Clean
+IP039000049.jpg,1,cabbage army worm,Low
+IP039000061.jpg,1,beet army worm,Low
+IP039000121.jpg,1,black cutworm,Low
+IP039000257.jpg,0,None,Clean
+IP039000263.jpg,0,None,Clean
+IP039000321.jpg,0,None,Clean
+IP039000355.jpg,1,corn borer,Low
+IP039000390.jpg,0,None,Clean
+IP039000410.jpg,1,cabbage army worm,Low
+IP039000492.jpg,1,Adristyrannus,Low
+IP039000504.jpg,0,None,Clean
+IP039000530.jpg,1,army worm,Low
+IP039000542.jpg,1,black cutworm,Low
+IP039000546.jpg,0,None,Clean
+IP039000606.jpg,0,None,Clean
+IP039000756.jpg,0,None,Clean
+IP040000032.jpg,0,None,Clean
+IP040000051.jpg,1,beet army worm,Low
+IP040000055.jpg,1,beet army worm,Low
+IP040000132.jpg,1,beet army worm,Low
+IP040000143.jpg,0,None,Clean
+IP040000157.jpg,1,corn borer,Low
+IP040000164.jpg,1,beet army worm,Low
+IP040000227.jpg,0,None,Clean
+IP040000254.jpg,1,beet army worm,Low
+IP040000264.jpg,1,beet army worm,Low
+IP040000314.jpg,1,beet army worm,Low
+IP040000327.jpg,0,None,Clean
+IP040000355.jpg,0,None,Clean
+IP040000373.jpg,0,None,Clean
+IP040000410.jpg,0,None,Clean
+IP040000422.jpg,0,None,Clean
+IP040000462.jpg,1,beet army worm,Low
+IP040000496.jpg,1,beet army worm,Low
+IP040000614.jpg,1,beet army worm,Low
+IP040000663.jpg,1,beet army worm,Low
+IP040000744.jpg,1,beet army worm,Low
+IP040000842.jpg,0,None,Clean
+IP040000908.jpg,1,beet army worm,Low
+IP040000943.jpg,1,Prodenia litura,Low
+IP040001085.jpg,0,None,Clean
+IP040001314.jpg,0,None,Clean
+IP040001362.jpg,0,None,Clean
+IP040001364.jpg,0,None,Clean
+IP040001413.jpg,0,None,Clean
+IP041000042.jpg,0,None,Clean
+IP041000125.jpg,1,Beet spot flies,Low
+IP041000246.jpg,1,Beet spot flies,Low
+IP041000294.jpg,0,None,Clean
+IP041000297.jpg,0,None,Clean
+IP042000066.jpg,0,None,Clean
+IP042000093.jpg,0,None,Clean
+IP042000106.jpg,0,None,Clean
+IP042000110.jpg,1,corn borer,Low
+IP042000131.jpg,2,corn borer,Low
+IP042000184.jpg,1,meadow moth,Low
+IP042000187.jpg,1,corn borer,Low
+IP043000004.jpg,1,beet weevil,Low
+IP043000049.jpg,0,None,Clean
+IP043000082.jpg,0,None,Clean
+IP043000101.jpg,1,rice water weevil,Low
+IP043000126.jpg,1,beet weevil,Low
+IP043000178.jpg,0,None,Clean
+IP043000200.jpg,0,None,Clean
+IP043000261.jpg,1,beet weevil,Low
+IP043000278.jpg,0,None,Clean
+IP043000284.jpg,1,beet weevil,Low
+IP044000037.jpg,1,sericaorient alismots chulsky,Low
+IP044000056.jpg,0,None,Clean
+IP044000075.jpg,1,flea beetle,Low
+IP044000102.jpg,0,None,Clean
+IP044000114.jpg,2,"Potosiabre vitarsis, sericaorient alismots chulsky",Low
+IP044000161.jpg,1,sericaorient alismots chulsky,Low
+IP045000073.jpg,0,None,Clean
+IP045000087.jpg,2,alfalfa weevil,Low
+IP045000122.jpg,0,None,Clean
+IP045000219.jpg,1,rice water weevil,Low
+IP045000283.jpg,0,None,Clean
+IP045000489.jpg,0,None,Clean
+IP046000045.jpg,1,flax budworm,Low
+IP046000094.jpg,1,flax budworm,Low
+IP046000114.jpg,0,None,Clean
+IP046000210.jpg,1,Lawana imitata Melichar,Low
+IP046000234.jpg,0,None,Clean
+IP046000245.jpg,0,None,Clean
+IP046000266.jpg,1,beet army worm,Low
+IP046000271.jpg,1,Ampelophaga,Low
+IP046000273.jpg,0,None,Clean
+IP046000286.jpg,0,None,Clean
+IP046000436.jpg,1,Adristyrannus,Low
+IP046000446.jpg,1,army worm,Low
+IP046000458.jpg,0,None,Clean
+IP046000636.jpg,0,None,Clean
+IP046000654.jpg,0,None,Clean
+IP046000708.jpg,1,flax budworm,Low
+IP046000788.jpg,0,None,Clean
+IP046000806.jpg,1,meadow moth,Low
+IP046000832.jpg,0,None,Clean
+IP046000848.jpg,0,None,Clean
+IP046000902.jpg,1,wireworm,Low
+IP046000915.jpg,0,None,Clean
+IP046000929.jpg,1,flax budworm,Low
+IP046000985.jpg,0,None,Clean
+IP046001007.jpg,1,flax budworm,Low
+IP046001008.jpg,1,Adristyrannus,Low
+IP046001036.jpg,1,beet army worm,Low
+IP046001062.jpg,0,None,Clean
+IP046001063.jpg,1,Adristyrannus,Low
+IP047000032.jpg,1,Locustoidea,Low
+IP047000085.jpg,1,alfalfa plant bug,Low
+IP047000088.jpg,0,None,Clean
+IP047000135.jpg,1,Miridae,Low
+IP047000166.jpg,0,None,Clean
+IP047000172.jpg,0,None,Clean
+IP047000414.jpg,1,alfalfa plant bug,Low
+IP047000430.jpg,0,None,Clean
+IP047000431.jpg,1,tarnished plant bug,Low
+IP047000462.jpg,1,tarnished plant bug,Low
+IP047000473.jpg,0,None,Clean
+IP047000511.jpg,1,alfalfa plant bug,Low
+IP047000537.jpg,0,None,Clean
+IP047000538.jpg,1,alfalfa plant bug,Low
+IP047000547.jpg,1,Miridae,Low
+IP047000594.jpg,1,Miridae,Low
+IP048000040.jpg,1,tarnished plant bug,Low
+IP048000048.jpg,1,tarnished plant bug,Low
+IP048000054.jpg,1,Miridae,Low
+IP048000060.jpg,1,tarnished plant bug,Low
+IP048000164.jpg,1,tarnished plant bug,Low
+IP048000198.jpg,1,tarnished plant bug,Low
+IP048000221.jpg,0,None,Clean
+IP048000311.jpg,1,tarnished plant bug,Low
+IP048000316.jpg,1,tarnished plant bug,Low
+IP048000345.jpg,1,tarnished plant bug,Low
+IP048000476.jpg,0,None,Clean
+IP048000561.jpg,0,None,Clean
+IP048000565.jpg,1,tarnished plant bug,Low
+IP048000576.jpg,1,Miridae,Low
+IP048000577.jpg,1,tarnished plant bug,Low
+IP048000607.jpg,1,Miridae,Low
+IP048000622.jpg,1,Miridae,Low
+IP048000657.jpg,1,tarnished plant bug,Low
+IP048000659.jpg,1,tarnished plant bug,Low
+IP048000679.jpg,1,Miridae,Low
+IP048000688.jpg,1,Miridae,Low
+IP048000697.jpg,1,Miridae,Low
+IP048000704.jpg,0,None,Clean
+IP048000818.jpg,0,None,Clean
+IP049000019.jpg,1,Locustoidea,Low
+IP049000096.jpg,1,Locustoidea,Low
+IP049000233.jpg,1,Locustoidea,Low
+IP049000291.jpg,1,Locustoidea,Low
+IP049000313.jpg,1,Miridae,Low
+IP049000317.jpg,1,aphids,Low
+IP049000330.jpg,1,Miridae,Low
+IP049000361.jpg,0,None,Clean
+IP049000381.jpg,1,Locustoidea,Low
+IP049000403.jpg,1,Locustoidea,Low
+IP049000420.jpg,0,None,Clean
+IP049000432.jpg,1,Miridae,Low
+IP049000481.jpg,1,Locustoidea,Low
+IP049000504.jpg,1,tarnished plant bug,Low
+IP049000588.jpg,1,Miridae,Low
+IP049000592.jpg,1,Locustoidea,Low
+IP049000606.jpg,1,Locustoidea,Low
+IP049000613.jpg,1,Locustoidea,Low
+IP049000623.jpg,1,Miridae,Low
+IP049000664.jpg,0,None,Clean
+IP049000725.jpg,1,Miridae,Low
+IP049000802.jpg,1,Locustoidea,Low
+IP049000821.jpg,1,Locustoidea,Low
+IP049000836.jpg,1,Locustoidea,Low
+IP049000846.jpg,1,Miridae,Low
+IP049000878.jpg,2,Locustoidea,Low
+IP049000896.jpg,1,Locustoidea,Low
+IP049000914.jpg,1,Locustoidea,Low
+IP049000973.jpg,0,None,Clean
+IP049001029.jpg,0,None,Clean
+IP049001092.jpg,1,Locustoidea,Low
+IP049001100.jpg,1,Locustoidea,Low
+IP049001169.jpg,0,None,Clean
+IP049001212.jpg,1,Locustoidea,Low
+IP049001237.jpg,0,None,Clean
+IP049001329.jpg,0,None,Clean
+IP049001357.jpg,0,None,Clean
+IP050000065.jpg,1,lytta polita,Low
+IP050000085.jpg,1,lytta polita,Low
+IP050000111.jpg,1,legume blister beetle,Low
+IP050000123.jpg,1,blister beetle,Low
+IP050000127.jpg,1,blister beetle,Low
+IP050000210.jpg,2,blister beetle,Low
+IP050000251.jpg,1,blister beetle,Low
+IP050000272.jpg,1,legume blister beetle,Low
+IP050000293.jpg,1,blister beetle,Low
+IP050000319.jpg,0,None,Clean
+IP050000336.jpg,0,None,Clean
+IP050000341.jpg,0,None,Clean
+IP050000350.jpg,1,blister beetle,Low
+IP050000363.jpg,1,blister beetle,Low
+IP050000492.jpg,0,None,Clean
+IP050000551.jpg,1,blister beetle,Low
+IP050000606.jpg,0,None,Clean
+IP051000015.jpg,1,legume blister beetle,Low
+IP051000035.jpg,1,blister beetle,Low
+IP051000098.jpg,1,blister beetle,Low
+IP051000144.jpg,1,blister beetle,Low
+IP051000157.jpg,0,None,Clean
+IP051000180.jpg,0,None,Clean
+IP051000212.jpg,0,None,Clean
+IP051000235.jpg,0,None,Clean
+IP051000249.jpg,1,legume blister beetle,Low
+IP051000287.jpg,1,blister beetle,Low
+IP051000311.jpg,0,None,Clean
+IP051000342.jpg,0,None,Clean
+IP051000363.jpg,1,legume blister beetle,Low
+IP051000364.jpg,1,legume blister beetle,Low
+IP051000403.jpg,0,None,Clean
+IP051000435.jpg,1,legume blister beetle,Low
+IP051000436.jpg,0,None,Clean
+IP051000505.jpg,0,None,Clean
+IP051000565.jpg,1,legume blister beetle,Low
+IP051000767.jpg,1,legume blister beetle,Low
+IP051000806.jpg,1,legume blister beetle,Low
+IP051000866.jpg,1,legume blister beetle,Low
+IP051000906.jpg,1,legume blister beetle,Low
+IP051000926.jpg,0,None,Clean
+IP051001031.jpg,1,blister beetle,Low
+IP051001250.jpg,1,legume blister beetle,Low
+IP051001261.jpg,1,legume blister beetle,Low
+IP051001358.jpg,1,legume blister beetle,Low
+IP051001363.jpg,1,legume blister beetle,Low
+IP051001382.jpg,1,legume blister beetle,Low
+IP052000023.jpg,1,blister beetle,Low
+IP052000109.jpg,1,blister beetle,Low
+IP052000117.jpg,1,blister beetle,Low
+IP052000146.jpg,1,blister beetle,Low
+IP052000151.jpg,1,blister beetle,Low
+IP052000161.jpg,1,blister beetle,Low
+IP052000172.jpg,1,blister beetle,Low
+IP052000189.jpg,1,blister beetle,Low
+IP052000209.jpg,1,blister beetle,Low
+IP052000215.jpg,1,blister beetle,Low
+IP052000232.jpg,1,blister beetle,Low
+IP052000233.jpg,1,blister beetle,Low
+IP052000285.jpg,1,blister beetle,Low
+IP052000289.jpg,1,blister beetle,Low
+IP052000303.jpg,1,blister beetle,Low
+IP052000372.jpg,1,blister beetle,Low
+IP052000375.jpg,1,blister beetle,Low
+IP052000416.jpg,1,blister beetle,Low
+IP052000457.jpg,1,blister beetle,Low
+IP052000461.jpg,1,blister beetle,Low
+IP052000478.jpg,0,None,Clean
+IP052000483.jpg,1,blister beetle,Low
+IP052000513.jpg,1,blister beetle,Low
+IP052000517.jpg,1,blister beetle,Low
+IP052000525.jpg,1,blister beetle,Low
+IP052000557.jpg,1,blister beetle,Low
+IP052000567.jpg,1,blister beetle,Low
+IP052000594.jpg,1,blister beetle,Low
+IP052000608.jpg,1,blister beetle,Low
+IP052000624.jpg,1,blister beetle,Low
+IP052000642.jpg,1,blister beetle,Low
+IP052000652.jpg,1,blister beetle,Low
+IP052000685.jpg,1,blister beetle,Low
+IP052000751.jpg,1,blister beetle,Low
+IP052000785.jpg,1,Rhytidodera bowrinii white,Low
+IP052000899.jpg,0,None,Clean
+IP052000918.jpg,1,blister beetle,Low
+IP052000951.jpg,0,None,Clean
+IP052001008.jpg,0,None,Clean
+IP052001009.jpg,1,legume blister beetle,Low
+IP052001049.jpg,1,legume blister beetle,Low
+IP052001111.jpg,0,None,Clean
+IP052001128.jpg,0,None,Clean
+IP052001152.jpg,0,None,Clean
+IP052001175.jpg,1,blister beetle,Low
+IP052001271.jpg,0,None,Clean
+IP052001383.jpg,1,blister beetle,Low
+IP052001393.jpg,1,blister beetle,Low
+IP052001404.jpg,1,blister beetle,Low
+IP052001408.jpg,1,blister beetle,Low
+IP052001415.jpg,1,blister beetle,Low
+IP052001426.jpg,0,None,Clean
+IP052001429.jpg,1,blister beetle,Low
+IP052001431.jpg,1,blister beetle,Low
+IP052001466.jpg,1,blister beetle,Low
+IP052001530.jpg,1,blister beetle,Low
+IP052001557.jpg,1,blister beetle,Low
+IP052001569.jpg,1,legume blister beetle,Low
+IP052001601.jpg,1,blister beetle,Low
+IP052001619.jpg,0,None,Clean
+IP052001725.jpg,1,blister beetle,Low
+IP052001731.jpg,1,blister beetle,Low
+IP052001745.jpg,0,None,Clean
+IP052001799.jpg,1,legume blister beetle,Low
+IP052001890.jpg,0,None,Clean
+IP054000007.jpg,0,None,Clean
+IP054000100.jpg,0,None,Clean
+IP054000128.jpg,0,None,Clean
+IP054000182.jpg,0,None,Clean
+IP054000184.jpg,0,None,Clean
+IP055000177.jpg,0,None,Clean
+IP055000525.jpg,0,None,Clean
+IP055000798.jpg,0,None,Clean
+IP056000044.jpg,1,alfalfa seed chalcid,Low
+IP057000130.jpg,1,rice water weevil,Low
+IP057000188.jpg,1,beet weevil,Low
+IP057000210.jpg,0,None,Clean
+IP057000239.jpg,0,None,Clean
+IP058000086.jpg,1,Locustoidea,Low
+IP058000266.jpg,0,None,Clean
+IP059000301.jpg,0,None,Clean
+IP059000525.jpg,1,aphids,Low
+IP059000639.jpg,2,aphids,Low
+IP059001040.jpg,2,aphids,Low
+IP059001307.jpg,1,aphids,Low
+IP059001346.jpg,4,aphids,Moderate
+IP059001374.jpg,1,aphids,Low
+IP063000024.jpg,1,oides decempunctata,Low
+IP063000059.jpg,1,oides decempunctata,Low
+IP063000067.jpg,1,oides decempunctata,Low
+IP063000166.jpg,1,oides decempunctata,Low
+IP063000183.jpg,1,oides decempunctata,Low
+IP063000215.jpg,2,oides decempunctata,Low
+IP063000229.jpg,1,oides decempunctata,Low
+IP063000233.jpg,1,oides decempunctata,Low
+IP063000276.jpg,3,oides decempunctata,Low
+IP065000108.jpg,1,Pseudococcus comstocki Kuwana,Low
+IP065000136.jpg,0,None,Clean
+IP065000217.jpg,0,None,Clean
+IP065000220.jpg,1,Pseudococcus comstocki Kuwana,Low
+IP066000084.jpg,1,parathrene regalis,Low
+IP066000087.jpg,0,None,Clean
+IP067000053.jpg,1,Ampelophaga,Low
+IP067000084.jpg,1,Ampelophaga,Low
+IP067000194.jpg,1,Ampelophaga,Low
+IP067000216.jpg,1,Ampelophaga,Low
+IP067000229.jpg,1,Adristyrannus,Low
+IP067000302.jpg,1,Ampelophaga,Low
+IP067000304.jpg,1,Ampelophaga,Low
+IP067000505.jpg,2,Ampelophaga,Low
+IP067000524.jpg,1,Ampelophaga,Low
+IP067000543.jpg,1,Ampelophaga,Low
+IP067000559.jpg,1,Ampelophaga,Low
+IP067000572.jpg,1,Ampelophaga,Low
+IP067000583.jpg,1,Ampelophaga,Low
+IP067000594.jpg,1,Ampelophaga,Low
+IP067000600.jpg,1,Ampelophaga,Low
+IP067000650.jpg,1,Ampelophaga,Low
+IP067000681.jpg,1,Ampelophaga,Low
+IP067000696.jpg,1,Ampelophaga,Low
+IP067000707.jpg,1,Ampelophaga,Low
+IP067000743.jpg,1,Ampelophaga,Low
+IP068000181.jpg,1,Lycorma delicatula,Low
+IP068000252.jpg,1,Lycorma delicatula,Low
+IP068000775.jpg,1,Lycorma delicatula,Low
+IP068001304.jpg,1,Lycorma delicatula,Low
+IP068001439.jpg,1,Lycorma delicatula,Low
+IP068001899.jpg,1,Lycorma delicatula,Low
+IP068003044.jpg,1,Lycorma delicatula,Low
+IP068003059.jpg,1,Lycorma delicatula,Low
+IP068003446.jpg,1,Lycorma delicatula,Low
+IP068003492.jpg,1,Lycorma delicatula,Low
+IP068003529.jpg,2,"Lawana imitata Melichar, Lycorma delicatula",Low
+IP068003572.jpg,1,Lycorma delicatula,Low
+IP068003601.jpg,1,Cicadellidae,Low
+IP068003698.jpg,1,Lycorma delicatula,Low
+IP068003943.jpg,1,Lycorma delicatula,Low
+IP068003952.jpg,1,Lycorma delicatula,Low
+IP068003976.jpg,1,Lycorma delicatula,Low
+IP068004020.jpg,1,Lycorma delicatula,Low
+IP068004222.jpg,1,Lycorma delicatula,Low
+IP068004575.jpg,1,Lycorma delicatula,Low
+IP068004738.jpg,1,Lycorma delicatula,Low
+IP068004741.jpg,1,Lycorma delicatula,Low
+IP068004944.jpg,1,Lycorma delicatula,Low
+IP068005282.jpg,1,Lycorma delicatula,Low
+IP069000154.jpg,1,Xylotrechus,Low
+IP069000203.jpg,1,Xylotrechus,Low
+IP069000346.jpg,1,Xylotrechus,Low
+IP069000396.jpg,1,Xylotrechus,Low
+IP069000696.jpg,1,Xylotrechus,Low
+IP069000773.jpg,1,Xylotrechus,Low
+IP069000802.jpg,1,Xylotrechus,Low
+IP069000887.jpg,1,Xylotrechus,Low
+IP069000981.jpg,1,Xylotrechus,Low
+IP069001112.jpg,1,Xylotrechus,Low
+IP069001140.jpg,1,Xylotrechus,Low
+IP070000181.jpg,1,Cicadella viridis,Low
+IP070000248.jpg,1,Cicadella viridis,Low
+IP070000612.jpg,1,Cicadella viridis,Low
+IP070000618.jpg,1,Cicadella viridis,Low
+IP070000627.jpg,1,Cicadella viridis,Low
+IP070000628.jpg,1,Cicadella viridis,Low
+IP070000738.jpg,1,Cicadellidae,Low
+IP070000927.jpg,1,Cicadella viridis,Low
+IP070001098.jpg,1,Cicadella viridis,Low
+IP070001135.jpg,1,Cicadellidae,Low
+IP070001190.jpg,1,Cicadella viridis,Low
+IP070001238.jpg,1,Cicadella viridis,Low
+IP070001246.jpg,1,Cicadellidae,Low
+IP070001277.jpg,1,Cicadella viridis,Low
+IP071000115.jpg,1,Miridae,Low
+IP071000134.jpg,1,Miridae,Low
+IP071000160.jpg,0,None,Clean
+IP071000203.jpg,1,Miridae,Low
+IP071000313.jpg,1,Miridae,Low
+IP071000542.jpg,1,Miridae,Low
+IP071000593.jpg,1,Miridae,Low
+IP071000698.jpg,1,Miridae,Low
+IP071000728.jpg,1,Miridae,Low
+IP071000756.jpg,1,Miridae,Low
+IP071000837.jpg,1,Miridae,Low
+IP071001025.jpg,1,Miridae,Low
+IP071001085.jpg,1,tarnished plant bug,Low
+IP071001241.jpg,1,Miridae,Low
+IP071001320.jpg,1,Miridae,Low
+IP071001336.jpg,0,None,Clean
+IP071001355.jpg,1,tarnished plant bug,Low
+IP071001519.jpg,0,None,Clean
+IP071001571.jpg,1,Miridae,Low
+IP071001618.jpg,1,Miridae,Low
+IP071001634.jpg,1,Miridae,Low
+IP071001678.jpg,1,Miridae,Low
+IP071001723.jpg,1,Miridae,Low
+IP071001753.jpg,1,Miridae,Low
+IP071001776.jpg,1,Miridae,Low
+IP071001791.jpg,1,Miridae,Low
+IP071001813.jpg,1,Miridae,Low
+IP071001850.jpg,1,Miridae,Low
+IP071001864.jpg,1,Miridae,Low
+IP071001935.jpg,1,Miridae,Low
+IP071002057.jpg,1,Miridae,Low
+IP071002129.jpg,1,Miridae,Low
+IP071002188.jpg,1,Miridae,Low
+IP071002273.jpg,1,Miridae,Low
+IP071002321.jpg,1,Miridae,Low
+IP071002337.jpg,1,Miridae,Low
+IP071002352.jpg,1,Miridae,Low
+IP071002390.jpg,1,Miridae,Low
+IP071002451.jpg,1,Miridae,Low
+IP071002453.jpg,1,Miridae,Low
+IP071002514.jpg,0,None,Clean
+IP071002523.jpg,1,Miridae,Low
+IP071002542.jpg,1,Miridae,Low
+IP071002553.jpg,1,Miridae,Low
+IP071002585.jpg,1,Miridae,Low
+IP071002608.jpg,1,Miridae,Low
+IP071002631.jpg,1,Miridae,Low
+IP071002696.jpg,0,None,Clean
+IP071002736.jpg,0,None,Clean
+IP071002758.jpg,1,Miridae,Low
+IP071002828.jpg,1,Miridae,Low
+IP071002863.jpg,1,Miridae,Low
+IP071002879.jpg,1,Locustoidea,Low
+IP071002896.jpg,1,Miridae,Low
+IP071002943.jpg,0,None,Clean
+IP071003023.jpg,1,Miridae,Low
+IP071003060.jpg,1,Miridae,Low
+IP071003093.jpg,1,Miridae,Low
+IP071003119.jpg,2,"Miridae, tarnished plant bug",Low
+IP071003134.jpg,1,Miridae,Low
+IP071003177.jpg,0,None,Clean
+IP071003196.jpg,1,Miridae,Low
+IP071003243.jpg,1,Miridae,Low
+IP071003249.jpg,1,Miridae,Low
+IP071003300.jpg,1,Miridae,Low
+IP071003377.jpg,1,Miridae,Low
+IP071003390.jpg,1,Miridae,Low
+IP071003430.jpg,0,None,Clean
+IP071003508.jpg,1,Locustoidea,Low
+IP071003525.jpg,1,Locustoidea,Low
+IP071003528.jpg,1,flea beetle,Low
+IP071003666.jpg,1,Miridae,Low
+IP071003949.jpg,1,Miridae,Low
+IP071003976.jpg,1,Miridae,Low
+IP071003982.jpg,0,None,Clean
+IP071004015.jpg,1,Miridae,Low
+IP071004402.jpg,1,Miridae,Low
+IP071004427.jpg,1,Miridae,Low
+IP071004573.jpg,1,Miridae,Low
+IP071004635.jpg,1,Miridae,Low
+IP071004718.jpg,1,Miridae,Low
+IP071004738.jpg,1,Miridae,Low
+IP071004756.jpg,0,None,Clean
+IP071004808.jpg,1,Locustoidea,Low
+IP071004863.jpg,1,Miridae,Low
+IP071004875.jpg,1,Miridae,Low
+IP071005030.jpg,1,Miridae,Low
+IP071005070.jpg,2,"Miridae, Cicadellidae",Low
+IP071005072.jpg,1,Miridae,Low
+IP072000016.jpg,0,None,Clean
+IP072000061.jpg,1,wheat phloeothrips,Low
+IP072000269.jpg,0,None,Clean
+IP072000332.jpg,0,None,Clean
+IP072000383.jpg,0,None,Clean
+IP072000405.jpg,0,None,Clean
+IP072000667.jpg,0,None,Clean
+IP073000040.jpg,2,"Erythroneura apicalis, Cicadellidae",Low
+IP074000061.jpg,2,"red spider, Papilio xuthus",Low
+IP074000141.jpg,1,red spider,Low
+IP074000254.jpg,1,Papilio xuthus,Low
+IP074000285.jpg,1,Papilio xuthus,Low
+IP074000382.jpg,1,Papilio xuthus,Low
+IP074000394.jpg,1,red spider,Low
+IP074000397.jpg,0,None,Clean
+IP075000063.jpg,1,Panonchus citri McGregor,Low
+IP075000118.jpg,1,red spider,Low
+IP075000211.jpg,0,None,Clean
+IP077000044.jpg,1,Icerya purchasi Maskell,Low
+IP077000062.jpg,2,Icerya purchasi Maskell,Low
+IP077000205.jpg,1,Icerya purchasi Maskell,Low
+IP077000211.jpg,1,Icerya purchasi Maskell,Low
+IP077000278.jpg,1,Icerya purchasi Maskell,Low
+IP077000336.jpg,1,Icerya purchasi Maskell,Low
+IP077000467.jpg,1,Ceroplastes rubens,Low
+IP077000493.jpg,3,Icerya purchasi Maskell,Low
+IP077000526.jpg,10,Icerya purchasi Maskell,Severe
+IP077000557.jpg,5,"Lawana imitata Melichar, Icerya purchasi Maskell",Moderate
+IP077000701.jpg,1,Icerya purchasi Maskell,Low
+IP078000354.jpg,22,Unaspis yanonensis,Severe
+IP078000371.jpg,22,Unaspis yanonensis,Severe
+IP079000013.jpg,11,Ceroplastes rubens,Severe
+IP079000074.jpg,7,Ceroplastes rubens,Moderate
+IP079000131.jpg,1,Ceroplastes rubens,Low
+IP079000144.jpg,1,Ceroplastes rubens,Low
+IP079000153.jpg,6,Ceroplastes rubens,Moderate
+IP080000048.jpg,1,Chrysomphalus aonidum,Low
+IP080000101.jpg,0,None,Clean
+IP080000209.jpg,1,Chrysomphalus aonidum,Low
+IP082000073.jpg,1,Icerya purchasi Maskell,Low
+IP082000074.jpg,0,None,Clean
+IP083000032.jpg,1,Aleurocanthus spiniferus,Low
+IP083000118.jpg,0,None,Clean
+IP083000121.jpg,1,Aleurocanthus spiniferus,Low
+IP083000628.jpg,1,Aleurocanthus spiniferus,Low
+IP084000087.jpg,1,Tetradacus c Bactrocera minax,Low
+IP084000253.jpg,1,Tetradacus c Bactrocera minax,Low
+IP084000312.jpg,1,Bactrocera tsuneonis,Low
+IP085000030.jpg,1,Dacus dorsalis(Hendel),Low
+IP085000045.jpg,1,Dacus dorsalis(Hendel),Low
+IP085000067.jpg,1,Dacus dorsalis(Hendel),Low
+IP085000111.jpg,1,Dacus dorsalis(Hendel),Low
+IP085000113.jpg,1,Dacus dorsalis(Hendel),Low
+IP085000225.jpg,1,Dacus dorsalis(Hendel),Low
+IP085000297.jpg,2,"Tetradacus c Bactrocera minax, Dacus dorsalis(Hendel)",Low
+IP085000326.jpg,1,Dacus dorsalis(Hendel),Low
+IP086000019.jpg,1,Dacus dorsalis(Hendel),Low
+IP086000079.jpg,1,Dacus dorsalis(Hendel),Low
+IP087000009.jpg,0,None,Clean
+IP087000124.jpg,1,Prodenia litura,Low
+IP087000161.jpg,0,None,Clean
+IP087000268.jpg,1,Prodenia litura,Low
+IP087000279.jpg,0,None,Clean
+IP087000464.jpg,0,None,Clean
+IP087000537.jpg,2,Prodenia litura,Low
+IP087000542.jpg,1,wireworm,Low
+IP087000582.jpg,1,Prodenia litura,Low
+IP087000588.jpg,0,None,Clean
+IP087000639.jpg,1,Rhytidodera bowrinii white,Low
+IP087000647.jpg,2,Prodenia litura,Low
+IP087000684.jpg,0,None,Clean
+IP087000732.jpg,1,Prodenia litura,Low
+IP087000812.jpg,0,None,Clean
+IP087000822.jpg,0,None,Clean
+IP087000830.jpg,1,Prodenia litura,Low
+IP087000845.jpg,0,None,Clean
+IP087000878.jpg,1,Prodenia litura,Low
+IP087000890.jpg,0,None,Clean
+IP087000893.jpg,1,Prodenia litura,Low
+IP087000950.jpg,1,black cutworm,Low
+IP087001036.jpg,1,meadow moth,Low
+IP087001083.jpg,1,Prodenia litura,Low
+IP087001105.jpg,0,None,Clean
+IP087001134.jpg,0,None,Clean
+IP087001194.jpg,0,None,Clean
+IP087001206.jpg,1,Prodenia litura,Low
+IP087001299.jpg,1,Prodenia litura,Low
+IP088000032.jpg,0,None,Clean
+IP088000053.jpg,1,Adristyrannus,Low
+IP088000109.jpg,1,Adristyrannus,Low
+IP088000143.jpg,2,"Adristyrannus, meadow moth",Low
+IP088000192.jpg,0,None,Clean
+IP088000195.jpg,1,Adristyrannus,Low
+IP088000215.jpg,0,None,Clean
+IP088000238.jpg,0,None,Clean
+IP088000239.jpg,1,Adristyrannus,Low
+IP089000078.jpg,1,Phyllocnistis citrella Stainton,Low
+IP089000215.jpg,2,"Phyllocnistis citrella Stainton, Cicadellidae",Low
+IP090000118.jpg,0,None,Clean
+IP091000203.jpg,2,"Toxoptera aurantii, Ceroplastes rubens",Low
+IP091000218.jpg,0,None,Clean
+IP093000101.jpg,0,None,Clean
+IP093000250.jpg,0,None,Clean
+IP093000254.jpg,0,None,Clean
+IP093000587.jpg,0,None,Clean
+IP093000746.jpg,1,Scirtothrips dorsalis Hood,Low
+IP094000285.jpg,0,None,Clean
+IP094000288.jpg,0,None,Clean
+IP095000015.jpg,3,Lawana imitata Melichar,Low
+IP095000082.jpg,1,Lawana imitata Melichar,Low
+IP095000112.jpg,1,Salurnis marginella Guerr,Low
+IP095000227.jpg,1,Lawana imitata Melichar,Low
+IP095000288.jpg,1,Lawana imitata Melichar,Low
+IP095000445.jpg,1,Salurnis marginella Guerr,Low
+IP095000463.jpg,1,Lawana imitata Melichar,Low
+IP095000489.jpg,1,Lawana imitata Melichar,Low
+IP095000505.jpg,1,Salurnis marginella Guerr,Low
+IP096000075.jpg,1,Salurnis marginella Guerr,Low
+IP096000090.jpg,1,Salurnis marginella Guerr,Low
+IP096000104.jpg,1,Salurnis marginella Guerr,Low
+IP096000160.jpg,1,Salurnis marginella Guerr,Low
+IP096000225.jpg,1,Salurnis marginella Guerr,Low
+IP096000254.jpg,1,Salurnis marginella Guerr,Low
+IP096000301.jpg,1,Salurnis marginella Guerr,Low
+IP096000362.jpg,1,Salurnis marginella Guerr,Low
+IP096000366.jpg,1,Salurnis marginella Guerr,Low
+IP096000461.jpg,1,Salurnis marginella Guerr,Low
+IP096000472.jpg,1,Salurnis marginella Guerr,Low
+IP096000475.jpg,1,Salurnis marginella Guerr,Low
+IP097000066.jpg,0,None,Clean
+IP097000085.jpg,1,flea beetle,Low
+IP097000106.jpg,0,None,Clean
+IP097000141.jpg,0,None,Clean
+IP098000001.jpg,1,flax budworm,Low
+IP098000057.jpg,0,None,Clean
+IP098000061.jpg,0,None,Clean
+IP098000063.jpg,1,Prodenia litura,Low
+IP099000048.jpg,1,Cicadellidae,Low
+IP100000066.jpg,1,Rhytidodera bowrinii white,Low
+IP100000075.jpg,1,Rhytidodera bowrinii white,Low
+IP100000077.jpg,1,Rhytidodera bowrinii white,Low
+IP100000254.jpg,0,None,Clean
+IP100000375.jpg,1,Rhytidodera bowrinii white,Low
+IP100000380.jpg,1,Rhytidodera bowrinii white,Low
+IP100000398.jpg,0,None,Clean
+IP100000406.jpg,1,Rhytidodera bowrinii white,Low
+IP100000456.jpg,1,Rhytidodera bowrinii white,Low
+IP100000484.jpg,1,Rhytidodera bowrinii white,Low
+IP101000242.jpg,1,rice water weevil,Low
+IP101000308.jpg,1,rice water weevil,Low
+IP101000323.jpg,1,Sternochetus frigidus,Low
+IP101000396.jpg,0,None,Clean
+IP102000033.jpg,1,Cicadellidae,Low
+IP102000081.jpg,1,Cicadella viridis,Low
+IP102000125.jpg,1,Cicadellidae,Low
+IP102000136.jpg,1,Cicadellidae,Low
+IP102000166.jpg,1,Cicadellidae,Low
+IP102000206.jpg,1,Cicadellidae,Low
+IP102000285.jpg,1,Cicadellidae,Low
+IP102000302.jpg,1,Cicadellidae,Low
+IP102000308.jpg,1,Cicadellidae,Low
+IP102000331.jpg,1,Cicadellidae,Low
+IP102000575.jpg,1,Cicadellidae,Low
+IP102000619.jpg,1,Cicadellidae,Low
+IP102000715.jpg,1,Cicadellidae,Low
+IP102000725.jpg,1,Cicadellidae,Low
+IP102000757.jpg,1,Cicadellidae,Low
+IP102000761.jpg,1,Cicadellidae,Low
+IP102000772.jpg,1,Cicadellidae,Low
+IP102000794.jpg,1,Cicadellidae,Low
+IP102000817.jpg,1,Cicadellidae,Low
+IP102000862.jpg,1,Cicadellidae,Low
+IP102000900.jpg,1,Cicadellidae,Low
+IP102000920.jpg,1,Cicadellidae,Low
+IP102000935.jpg,1,Cicadellidae,Low
+IP102000949.jpg,1,Cicadellidae,Low
+IP102000954.jpg,1,Cicadellidae,Low
+IP102000984.jpg,1,Cicadellidae,Low
+IP102001063.jpg,1,Cicadellidae,Low
+IP102001064.jpg,1,Cicadellidae,Low
+IP102001066.jpg,1,Cicadellidae,Low
+IP102001107.jpg,1,Cicadellidae,Low
+IP102001130.jpg,1,Cicadellidae,Low
+IP102001155.jpg,1,Cicadellidae,Low
+IP102001161.jpg,1,Cicadellidae,Low
+IP102001232.jpg,1,Cicadellidae,Low
+IP102001237.jpg,1,Cicadellidae,Low
+IP102001250.jpg,1,Cicadellidae,Low
+IP102001289.jpg,1,Cicadellidae,Low
+IP102001324.jpg,1,Cicadellidae,Low
+IP102001332.jpg,1,Cicadellidae,Low
+IP102001362.jpg,1,Cicadellidae,Low
+IP102001373.jpg,1,Cicadellidae,Low
+IP102001410.jpg,1,Cicadellidae,Low
+IP102001415.jpg,1,Cicadellidae,Low
+IP102001463.jpg,1,Cicadellidae,Low
+IP102001478.jpg,1,Cicadellidae,Low
+IP102001545.jpg,1,Cicadellidae,Low
+IP102001564.jpg,1,Cicadellidae,Low
+IP102001586.jpg,1,Cicadellidae,Low
+IP102001619.jpg,1,Cicadellidae,Low
+IP102001625.jpg,1,Cicadellidae,Low
+IP102001674.jpg,1,Cicadellidae,Low
+IP102001752.jpg,1,Cicadellidae,Low
+IP102001778.jpg,1,Cicadellidae,Low
+IP102001809.jpg,1,Cicadellidae,Low
+IP102001836.jpg,2,Cicadellidae,Low
+IP102001837.jpg,1,Cicadellidae,Low
+IP102001883.jpg,1,Cicadellidae,Low
+IP102001905.jpg,1,Cicadellidae,Low
+IP102001930.jpg,1,Cicadellidae,Low
+IP102001931.jpg,1,Cicadellidae,Low
+IP102001944.jpg,1,Cicadellidae,Low
+IP102001950.jpg,1,Cicadellidae,Low
+IP102002027.jpg,1,Cicadellidae,Low
+IP102002047.jpg,1,Cicadellidae,Low
+IP102002081.jpg,1,Cicadellidae,Low
+IP102002093.jpg,1,Cicadellidae,Low
+IP102002148.jpg,1,Cicadellidae,Low
+IP102002233.jpg,1,Cicadellidae,Low
+IP102002259.jpg,1,Cicadellidae,Low
+IP102002262.jpg,1,Cicadellidae,Low
+IP102002267.jpg,1,Cicadellidae,Low
+IP102002272.jpg,1,Cicadellidae,Low
+IP102002273.jpg,1,Cicadellidae,Low
+IP102002300.jpg,1,Cicadellidae,Low
+IP102002334.jpg,1,Cicadellidae,Low
+IP102002342.jpg,1,Cicadellidae,Low
+IP102002344.jpg,1,Cicadellidae,Low
+IP102002374.jpg,1,Cicadellidae,Low
+IP102002395.jpg,1,Cicadellidae,Low
+IP102002446.jpg,1,Cicadellidae,Low
+IP102002473.jpg,1,Cicadellidae,Low
+IP102002484.jpg,1,Cicadellidae,Low
+IP102002546.jpg,1,Cicadellidae,Low
+IP102002603.jpg,2,Cicadellidae,Low
+IP102002649.jpg,1,Cicadellidae,Low
+IP102002658.jpg,1,Cicadellidae,Low
+IP102002687.jpg,1,Cicadellidae,Low
+IP102002699.jpg,1,Cicadellidae,Low
+IP102002730.jpg,1,Cicadellidae,Low
+IP102002810.jpg,1,Cicadellidae,Low
+IP102002842.jpg,1,Cicadellidae,Low
+IP102002843.jpg,1,Cicadellidae,Low
+IP102002872.jpg,1,Cicadellidae,Low
+IP102002921.jpg,1,Cicadellidae,Low
+IP102002931.jpg,1,Cicadellidae,Low
+IP102002998.jpg,1,Cicadellidae,Low
+IP102003045.jpg,1,Cicadellidae,Low
+IP102003068.jpg,1,Cicadellidae,Low
+IP102003082.jpg,1,Cicadellidae,Low
+IP102003103.jpg,1,Cicadellidae,Low
+IP102003107.jpg,1,Cicadellidae,Low
+IP102003112.jpg,1,Cicadellidae,Low
+IP102003159.jpg,1,Cicadellidae,Low
+IP102003189.jpg,1,Cicadellidae,Low
+IP102003197.jpg,1,Cicadellidae,Low
+IP102003274.jpg,1,Cicadellidae,Low
+IP102003275.jpg,1,Cicadellidae,Low
+IP102003299.jpg,1,Cicadellidae,Low
+IP102003320.jpg,1,Cicadellidae,Low
+IP102003325.jpg,1,Cicadellidae,Low
+IP102003338.jpg,1,Cicadellidae,Low
+IP102003343.jpg,1,Cicadellidae,Low
+IP102003373.jpg,1,Cicadellidae,Low
+IP102003381.jpg,1,Cicadellidae,Low
+IP102003383.jpg,1,Cicadellidae,Low
+IP102003446.jpg,1,Cicadellidae,Low
+IP102003454.jpg,1,Cicadellidae,Low
+IP102003459.jpg,1,Cicadellidae,Low
+IP102003465.jpg,1,Cicadellidae,Low
+IP102003503.jpg,1,Cicadellidae,Low
+IP102003545.jpg,1,Cicadellidae,Low
+IP102003562.jpg,1,Cicadellidae,Low
+IP102003575.jpg,1,Cicadellidae,Low
+IP102003579.jpg,1,Cicadellidae,Low
+IP102003587.jpg,1,Cicadellidae,Low
+IP102003601.jpg,1,Cicadellidae,Low
+IP102003608.jpg,1,Cicadellidae,Low
+IP102003615.jpg,1,Miridae,Low
+IP102003623.jpg,1,Cicadellidae,Low
+IP102003660.jpg,1,Cicadellidae,Low
+IP102003671.jpg,1,Cicadellidae,Low
+IP102003709.jpg,1,Cicadellidae,Low
+IP102003724.jpg,1,Cicadellidae,Low
+IP102003726.jpg,1,Cicadellidae,Low
+IP102003734.jpg,1,Cicadellidae,Low
+IP102003742.jpg,1,Cicadellidae,Low
+IP102003754.jpg,1,Cicadellidae,Low
+IP102003762.jpg,1,Cicadellidae,Low
+IP102003772.jpg,1,Cicadellidae,Low
+IP102003784.jpg,1,Cicadellidae,Low
+IP102003787.jpg,1,Cicadellidae,Low
+IP102003818.jpg,1,Cicadellidae,Low
+IP102003823.jpg,1,Cicadellidae,Low
+IP102003852.jpg,1,Cicadellidae,Low
+IP102003874.jpg,1,Cicadellidae,Low
+IP102003905.jpg,1,Cicadellidae,Low
+IP102003936.jpg,1,Cicadellidae,Low
+IP102003939.jpg,1,Cicadellidae,Low
+IP102003951.jpg,1,Cicadellidae,Low
+IP102003975.jpg,1,Cicadellidae,Low
+IP102003985.jpg,1,Cicadellidae,Low
+IP102003997.jpg,1,Cicadellidae,Low
+IP102004017.jpg,1,Cicadellidae,Low
+IP102004062.jpg,1,Cicadellidae,Low
+IP102004095.jpg,1,Cicadellidae,Low
+IP102004117.jpg,1,Cicadellidae,Low
+IP102004130.jpg,1,Cicadellidae,Low
+IP102004141.jpg,1,Cicadellidae,Low
+IP102004144.jpg,1,Cicadellidae,Low
+IP102004192.jpg,1,Cicadellidae,Low
+IP102004234.jpg,1,Cicadellidae,Low
+IP102004247.jpg,1,Cicadellidae,Low
+IP102004343.jpg,1,Cicadellidae,Low
+IP102004377.jpg,1,Cicadellidae,Low
+IP102004387.jpg,1,Cicadellidae,Low
+IP102004425.jpg,1,Cicadellidae,Low
+IP102004453.jpg,1,Cicadellidae,Low
+IP102004490.jpg,1,Cicadellidae,Low
+IP102004504.jpg,1,Cicadellidae,Low
+IP102004527.jpg,1,Cicadellidae,Low
+IP102004552.jpg,1,Cicadellidae,Low
+IP102004572.jpg,1,Cicadellidae,Low
+IP102004592.jpg,1,Cicadellidae,Low
+IP102004629.jpg,1,Cicadellidae,Low
+IP102004638.jpg,1,Cicadellidae,Low
+IP102004804.jpg,1,Cicadellidae,Low
+IP102004805.jpg,1,Cicadella viridis,Low
+IP102004863.jpg,1,Cicadellidae,Low
+IP102004918.jpg,2,Cicadellidae,Low
+IP102004952.jpg,1,Cicadellidae,Low
+IP102004997.jpg,1,Cicadellidae,Low
+IP102005061.jpg,1,Cicadellidae,Low
+IP102005133.jpg,1,Cicadellidae,Low
+IP102005218.jpg,2,Cicadellidae,Low
+IP102005277.jpg,1,Cicadellidae,Low
+IP102005281.jpg,1,Cicadellidae,Low
+IP102005353.jpg,1,Cicadellidae,Low
+IP102005359.jpg,1,Cicadellidae,Low
+IP102005402.jpg,1,Cicadellidae,Low
+IP102005413.jpg,1,Cicadellidae,Low
+IP102005453.jpg,1,Cicadellidae,Low
+IP102005468.jpg,2,"Cicadella viridis, Cicadellidae",Low
+IP102005487.jpg,1,Cicadellidae,Low
+IP102005488.jpg,1,Cicadellidae,Low
+IP102005497.jpg,1,Cicadellidae,Low
+IP102005499.jpg,1,Cicadellidae,Low
+IP102005547.jpg,0,None,Clean
+IP102005566.jpg,0,None,Clean
+IP102005586.jpg,1,Cicadellidae,Low
+IP102005607.jpg,1,Cicadellidae,Low
+IP102005628.jpg,0,None,Clean
+IP102005656.jpg,1,Cicadellidae,Low
+IP102005664.jpg,1,Cicadellidae,Low
+IP102005702.jpg,1,Cicadellidae,Low
+IP102005725.jpg,1,Cicadellidae,Low
