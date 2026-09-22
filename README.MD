@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22904655.svg)](https://doi.org/10.5281/zenodo.22904655)
+
 # Agri-Pest AI: Automated Insect Detection & Infestation Reporting
 
 ![Performance Graph](output/final_metrics/custom_evaluation_graph.png)
